@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-Unblocked-Games.cc is a free online platform featuring over 400 unblocked games across various genres like racing, fighting, adventure, and more. All games can be played directly in the browser without downloads, and are accessible from schools, workplaces, or any restricted network.
+[Unblocked Games](https://unblocked-games.cc) is a free online platform featuring over 400 unblocked games across various genres like racing, fighting, adventure, and more. All games can be played directly in the browser without downloads, and are accessible from schools, workplaces, or any restricted network.
 
 ## Features
 
