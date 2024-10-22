@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "Explore Bloxd.io - Uma divertida aventura voxel online",
+    "description": "Junte-se ao Bloxd.io para emocionantes aventuras voxel com diversos modos de jogo. Complete mapas, crie avatares e lute contra outros!"
+  },
+  "hero": {
+    "title": "Bem-vindo ao Bloxd.io",
+    "subTitle": "Mergulhe na experiência de jogo voxel definitiva!"
+  },
+  "features": {
+    "title": "Características Principais",
+    "subTitle": "",
+    "items": [
+      {
+        "title": "Modos de Jogo Diversos",
+        "description": "Experimente diversos modos como BloxdHop, DoodleCube e CubeWarfare para diversão sem fim."
+      },
+      {
+        "title": "Exploração Criativa",
+        "description": "Aproveite o Modo Pacífico para coletar recursos e construir estruturas incríveis no seu próprio ritmo."
+      },
+      {
+        "title": "Desafios Empolgantes",
+        "description": "Teste suas habilidades de parkour em BloxdHop e EvilTower enquanto corre contra o relógio."
+      },
+      {
+        "title": "Interação da Comunidade",
+        "description": "Interaja com outros jogadores votando em designs de avatares em DoodleCube e lutando em CubeWarfare."
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "Como Jogar?",
+    "subTitle": "",
+    "items": [
+      {
+        "text": "Salte entre blocos em BloxdHop antes que o tempo acabe."
+      },
+      {
+        "text": "Crie e vote em avatares temáticos em DoodleCube."
+      },
+      {
+        "text": "Escale a Torre Demoníaca em EvilTower usando suas habilidades de parkour."
+      },
+      {
+        "text": "Colete recursos e construa livremente no Modo Pacífico."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "subTitle": "Perguntas comuns sobre Bloxd.io",
+    "items": [
+      {
+        "question": "Quais são os principais modos de jogo em Bloxd.io?",
+        "answer": "Os principais modos incluem BloxdHop, DoodleCube, EvilTower, Modo Pacífico e CubeWarfare."
+      },
+      {
+        "question": "Posso jogar Bloxd.io de graça?",
+        "answer": "Sim, Bloxd.io é gratuito para jogar online."
+      },
+      {
+        "question": "Como posso melhorar minhas habilidades em Bloxd.io?",
+        "answer": "Pratique em diferentes modos e aprenda com outros jogadores para aprimorar suas habilidades."
+      },
+      {
+        "question": "Há um modo criativo em Bloxd.io?",
+        "answer": "Sim, o Modo Pacífico permite exploração criativa e construção."
+      }
+    ]
+  }
+}

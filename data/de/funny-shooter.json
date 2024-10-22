@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "title": "Funny Shooter",
+    "description": "Funny Shooter ist ein aufregender Ego-Shooter, in dem du gegen Wellen skurriler Feinde kämpfst. Nutze eine Vielzahl von Waffen, um diese seltsamen Gegner zu besiegen und verbessere dein Arsenal, während du voranschreitest."
+  },
+  "hero": {
+    "title": "Funny Shooter",
+    "subTitle": "Tauche ein in ein spannendes FPS-Erlebnis, während du Wellen seltsamer Feinde abwehrst! Rüste dich mit vielfältigen Waffen aus und verbessere dein Arsenal, während du vorankommst.",
+    "startBtnText": "Jetzt kostenlos starten"
+  },
+  "features": {
+    "title": "Hauptmerkmale",
+    "subTitle": "Entwickelt, um das Benutzererlebnis mit fesselndem Gameplay zu verbessern.",
+    "items": [
+      {
+        "title": "Flüssiges Gameplay mit atemberaubender 3D-Visualisierung",
+        "description": "Genieße ein nahtloses Spielerlebnis mit kunstvoll gestalteten 3D-Umgebungen, die jede Schlacht lebendig werden lassen."
+      },
+      {
+        "title": "Stelle dich einer Vielzahl von exzentrischen Feinden",
+        "description": "Jede Ebene führt neue absurde Feinde ein, die deine Fähigkeiten herausfordern und das Gameplay frisch und aufregend halten."
+      },
+      {
+        "title": "Kaufe Waffen und passe deine Ausrüstung an",
+        "description": "Besuche den In-Game-Shop, um neue Waffen, Aufsätze und Ausrüstungsupgrades zu kaufen, die es dir ermöglichen, dein Arsenal deinem Spielstil anzupassen."
+      },
+      {
+        "title": "Schalte Erfolge für Goldbelohnungen frei",
+        "description": "Verdiene Gold, indem du Meilensteine der Erfolge erreichst, das du nutzen kannst, um leistungsstärkere Waffen freizuschalten und dein Gameplay zu verbessern."
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "Wie spielt man Funny Shooter?",
+    "subTitle": "Erkunde lebendige, farbenfrohe Landschaften, die mit einzigartigen Feinden gefüllt sind. Diese verbesserte Version von Funny Shooter bietet einen reibungslosen Fortschritt mit einer Vielzahl von Waffen, Feinden, Ebenen und Erfolgen.",
+    "items": [
+      {
+        "text": "Deine Gegner sind seltsame Charaktere wie Redmen, Toiletmen und Riesen. Nutze verschiedene Feuerwaffen, Granaten und Sprengstoffe, um sie mit hochwirksamen Angriffen auszuschalten."
+      },
+      {
+        "text": "Funny Shooter 2 bietet eine hervorragende Progression. Du wirst alle paar Ebenen neuen Feinden begegnen und alle 10 Ebenen einem mächtigen Boss gegenüberstehen. Unterwegs schaltest du Erfolge, Upgrades und den Zugang zu einem Shop voller leistungsstarker Waffen frei."
+      },
+      {
+        "text": "Besuche den Shop, um neue Waffen zu kaufen und dein Loadout anzupassen. Es gibt zahlreiche Optionen, um ein einzigartiges Arsenal zu schaffen, das deinem Spielstil entspricht."
+      },
+      {
+        "text": "Brauchst du mehr Gold? Gehe zum Erfolg-Bildschirm, um Belohnungen einzufordern, die du nutzen kannst, um deine Ausrüstung aufzurüsten oder neue Waffen zu kaufen. Du kannst auch deinen Fortschritt beschleunigen, indem du RPG- und Granatwerfer-Upgrades vom Startbildschirm aus verwendest."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "subTitle": "Über Funny Shooter",
+    "items": [
+      {
+        "question": "Ist Funny Shooter nur auf Desktop verfügbar?",
+        "answer": "Nein, du kannst dieses Spiel auch auf Android-Geräten genießen!"
+      },
+      {
+        "question": "Wie viele Ebenen gibt es in Funny Shooter 2?",
+        "answer": "Funny Shooter 2 bietet endlose Spiel-Ebenen."
+      },
+      {
+        "question": "Kann ich Funny Shooter offline spielen?",
+        "answer": "Nein, eine Internetverbindung ist erforderlich, um Funny Shooter zu spielen."
+      },
+      {
+        "question": "Gibt es Multiplayer-Funktionen in Funny Shooter?",
+        "answer": "Funny Shooter ist ein Einzelspieler-Spiel, aber wir planen, in zukünftigen Updates Multiplayer-Modi einzuführen."
+      },
+      {
+        "question": "Kann ich meinen Fortschritt in Funny Shooter 2 zurücksetzen?",
+        "answer": "Ja, du kannst deinen Fortschritt in den Spieleinstellungen zurücksetzen, wenn du neu anfangen möchtest."
+      }
+    ]
+  }
+}

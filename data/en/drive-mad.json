@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "title": "Drive Mad - Thrilling Car Obstacle Game by Fancade",
+    "description": "Drive Mad is a car game by Fancade where you navigate obstacle-filled tracks. Balance your speed to avoid flipping your car. Play on desktop or mobile."
+  },
+  "hero": {
+    "title": "Drive Mad",
+    "subTitle": "Master the obstacles and finish each track without flipping your car!"
+  },
+  "features": {
+    "title": "Key Features",
+    "subTitle": "What makes Drive Mad exciting?",
+    "items": [
+      {
+        "title": "Challenging Obstacles",
+        "description": "Navigate through thrilling and creative stunts and obstacles that test your driving skills."
+      },
+      {
+        "title": "Multiple Levels",
+        "description": "Each level presents unique challenges, pushing you to master different tracks."
+      },
+      {
+        "title": "Simple Controls",
+        "description": "Use keyboard or mouse controls to steer your car forward and backward with ease."
+      },
+      {
+        "title": "Cross-Platform Play",
+        "description": "Enjoy Drive Mad on both desktop and mobile devices, anytime and anywhere."
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "How to Play?",
+    "subTitle": "",
+    "items": [
+      {
+        "text": "Steer forward using W, D, X, Up arrow, Right arrow, or mouse click. Steer backward using S, A, Z, Down arrow, or Left arrow. Balance your speed to avoid flipping your car on the obstacles."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subTitle": "Common questions about Drive Mad",
+    "items": [
+      {
+        "question": "Who created Drive Mad?",
+        "answer": "Drive Mad was created by Fancade, known for their arcade games. You can also try their other games like Speed King on Poki."
+      },
+      {
+        "question": "How can I play Drive Mad for free?",
+        "answer": "You can play Drive Mad for free on the Poki website."
+      },
+      {
+        "question": "Can I play Drive Mad on mobile devices and desktop?",
+        "answer": "Yes, Drive Mad is available on both desktop and mobile devices such as phones and tablets."
+      },
+      {
+        "question": "What is the goal of Drive Mad?",
+        "answer": "The goal is to reach the finish line without flipping your car, by carefully navigating through the obstacle-filled track."
+      }
+    ]
+  }
+}

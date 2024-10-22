@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "title": "PokeRogue",
+    "description": "Découvrez PokeRogue, où Pokémon rencontre le gameplay roguelite. Affrontez des dresseurs, collectionnez des objets et explorez des biomes uniques pour un plaisir sans fin !"
+  },
+  "hero": {
+    "title": "PokeRogue",
+    "subTitle": "Plongez dans PokeRogue, un mélange captivant de l'univers Pokémon et des mécaniques roguelite. Combattez à travers des biomes divers, collectionnez des objets puissants et affrontez des dresseurs emblématiques pour une expérience de jeu unique qui vous fera revenir pour plus !"
+  },
+  "features": {
+    "title": "Caractéristiques Principales",
+    "subTitle": "Conçu pour améliorer votre expérience de jeu avec un gameplay captivant et engageant.",
+    "items": [
+      {
+        "title": "Boucle de Gameplay Unique",
+        "description": "PokeRogue mélange Pokémon avec des mécaniques roguelike, offrant une boucle de gameplay 'jouer, mourir, grandir, répéter' qui rend chaque partie excitante."
+      },
+      {
+        "title": "Sélection de Pokémon de Départ",
+        "description": "Choisissez un Pokémon de départ de toutes les générations, chacun ayant une valeur pour une composition d'équipe équilibrée, améliorant la stratégie et le gameplay."
+      },
+      {
+        "title": "Gauntlets de 10 Combats",
+        "description": "Participez à 10 combats consécutifs par niveau, y compris des rencontres avec des dresseurs et des défis contre des chefs de gym emblématiques, pour tester vos compétences."
+      },
+      {
+        "title": "Soins et Capture Stratégiques",
+        "description": "Les objets sont essentiels pour soigner et capturer des Pokémon, car il n'y a pas de Centres Pokémon dans le jeu, ajoutant une couche de stratégie."
+      },
+      {
+        "title": "Combats de Chefs de Gym Récompensants",
+        "description": "Vaincre des chefs de gym accorde des tickets pour des machines à œufs gacha, introduisant de nouveaux Pokémon et de puissants mouvements d'œufs pour améliorer votre équipe."
+      },
+      {
+        "title": "Expérience Fan-Made",
+        "description": "PokeRogue est un jeu fan-made non lucratif et non officiel, célébrant l'esprit Pokémon sans affiliation avec Game Freak ou Nintendo."
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "Comment Jouer à PokeRogue ?",
+    "subTitle": "Plongez directement dans votre aventure Pokémon avec ces étapes simples :",
+    "items": [
+      {
+        "text": "Progression Métaméta : Chaque partie s'appuie sur les réalisations précédentes, rendant les futures parties plus puissantes et engageantes."
+      },
+      {
+        "text": "Débloquer les Pokémon de Départ : En attrapant divers Pokémon, ils deviennent disponibles comme potentiels Pokémon de départ pour les futures parties."
+      },
+      {
+        "text": "Explorer les Biomes : Attrapez des Pokémon de toutes les générations en explorant des biomes divers remplis de surprises."
+      },
+      {
+        "text": "Gacha d'Œufs : Échangez des bons dans le Gacha d'Œufs pour faire éclore des œufs, qui peuvent fournir des mouvements d'œufs puissants au départ."
+      },
+      {
+        "text": "Transférer des Traits : Les Pokémon capturés ou écloses transfèrent des traits bénéfiques aux Pokémon de départ correspondants pour les futures parties."
+      },
+      {
+        "text": "Obtenir des Bonbons Spécifiques au Pokémon de Départ : Gagnez des bonbons en attrapant et en utilisant vos Pokémon de départ, offrant diverses améliorations."
+      },
+      {
+        "text": "Combats Stratégiques : Choisissez judicieusement vos mouvements pendant les combats pour vaincre les Pokémon ennemis et gagner de l'expérience."
+      },
+      {
+        "text": "Collecte d'Objets : Collectez des objets tombés par les Pokémon vaincus ou trouvés dans l'environnement, empilant les bénéfices pour votre équipe."
+      },
+      {
+        "text": "Gestion d'Équipe : Constituez une équipe diversifiée et changez de Pokémon stratégiquement pendant les combats."
+      },
+      {
+        "text": "Affronter des Défis : Surmontez des dresseurs de plus en plus difficiles et des Pokémon boss au fur et à mesure de votre progression dans le jeu."
+      },
+      {
+        "text": "Courses Uniques : Chaque course est unique, avec une progression globale persistante, vous permettant d'apprendre, de débloquer de nouveaux Pokémon de départ et d'améliorer vos Pokémon."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "subTitle": "Questions courantes sur PokeRogue",
+    "items": [
+      {
+        "question": "Qu'est-ce que PokeRogue ?",
+        "answer": "PokeRogue est un jeu Pokémon fan-made combinant le gameplay traditionnel de Pokémon avec des mécaniques roguelike, mettant l'accent sur des combats stratégiques et des défis à enjeux élevés."
+      },
+      {
+        "question": "En quoi PokeRogue diffère-t-il des jeux Pokémon traditionnels ?",
+        "answer": "PokeRogue présente la mort permanente, pas de Centres Pokémon, des mécaniques de combat consécutives, et un système de sélection de départ unique, mettant l'accent sur les IV et de nouvelles méthodes de collecte."
+      },
+      {
+        "question": "Comment commencer une partie dans PokeRogue ?",
+        "answer": "Sélectionnez parmi divers Pokémon de départ, chacun ayant une valeur de 1 à 9. Les joueurs peuvent choisir plusieurs Pokémon de départ tant que leur valeur totale ne dépasse pas 10."
+      },
+      {
+        "question": "Y a-t-il des gyms dans PokeRogue ?",
+        "answer": "Bien qu'il n'y ait pas de gyms traditionnels, les joueurs rencontrent des chefs de gym dans le cadre des défis des gauntlets de 10 combats tout au long du jeu."
+      },
+      {
+        "question": "Comment soigner les Pokémon dans PokeRogue ?",
+        "answer": "Les soins dépendent des objets obtenus après les combats ou achetés avec la monnaie du jeu. Tous les Pokémon sont entièrement soignés et réanimés après avoir terminé un gauntlet de 10 combats."
+      }
+    ]
+  }
+}

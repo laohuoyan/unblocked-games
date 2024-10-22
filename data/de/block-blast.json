@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "Block Blast",
+    "description": "Erlebe Block Blast, das ultimative klassische Puzzle-Spiel! Arrangiere bunte Blöcke, kreiere Kombinationen und erreiche hohe Punktzahlen für endlosen Spaß."
+  },
+  "hero": {
+    "title": "Block Blast",
+    "subTitle": "Tauche ein in Block Blast! Arrangiere die Blöcke, um Kombinationen zu bilden und Punkte in diesem fesselnden klassischen Puzzle-Spiel zu verdienen."
+  },
+  "features": {
+    "title": "Hauptmerkmale",
+    "subTitle": "Entwickelt, um dein Spielerlebnis mit aufregendem und fesselndem Gameplay zu verbessern.",
+    "items": [
+      {
+        "title": "Fesselndes Gameplay",
+        "description": "Genieße ein klassisches Puzzle-Erlebnis mit intuitiven Mechaniken, die dich fesseln."
+      },
+      {
+        "title": "Farbige Grafiken",
+        "description": "Tauche ein in lebendige Grafiken und flüssige Animationen, die dein Spielerlebnis verbessern."
+      },
+      {
+        "title": "Kombinationssystem",
+        "description": "Erstelle unglaubliche Kombinationen, um Bonuspunkte zu verdienen und die Bestenliste zu erklimmen."
+      },
+      {
+        "title": "Herausfordernde Level",
+        "description": "Stelle dich zunehmend schwierigen Herausforderungen, die dein strategisches Denken und deine Planungskompetenz auf die Probe stellen."
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "Wie spielt man Block Blast?",
+    "subTitle": "Spring direkt in dein Block Blast-Abenteuer mit diesen einfachen Schritten:",
+    "items": [
+      {
+        "text": "Dein Ziel ist es, Blöcke unterschiedlicher Farben und Formen auf einem festen Brett zu platzieren."
+      },
+      {
+        "text": "Wenn eine Reihe oder Spalte vollständig gefüllt ist, verschwinden die Blöcke und du erhältst Punkte."
+      },
+      {
+        "text": "Je mehr Blöcke du entfernst und je länger die Kombinationsketten sind, desto höher wird dein Punktestand sein."
+      },
+      {
+        "text": "Das Spiel endet, wenn das Brett vollständig gefüllt ist und kein Platz für zusätzliche Blöcke mehr bleibt."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "subTitle": "Häufige Fragen zu Block Blast",
+    "items": [
+      {
+        "question": "Wie erreicht man eine hohe Punktzahl?",
+        "answer": "Analysiere das Brett und antizipiere kommende Blöcke, bevor du einen Block platzierst. Visualisiere, welche Reihen oder Spalten bald gefüllt sein werden. Beginne an den Ecken, um Platz für größere Blöcke zu maximieren. Versuche, mehrere Reihen oder Spalten gleichzeitig zu entfernen, um Kombinationen zu erstellen und Bonuspunkte zu sammeln."
+      },
+      {
+        "question": "Gibt es eine Zeitbegrenzung?",
+        "answer": "Nein, Block Blast ist ein entspannendes Puzzle-Spiel ohne Zeitbegrenzung, sodass du deine Züge in deinem eigenen Tempo planen kannst."
+      },
+      {
+        "question": "Kann ich Block Blast offline spielen?",
+        "answer": "Ja, Block Blast kann offline gespielt werden, was es zu einem perfekten Spiel für unterwegs macht."
+      },
+      {
+        "question": "Gibt es In-App-Käufe?",
+        "answer": "Block Blast ist kostenlos spielbar mit optionalen In-App-Käufen für kosmetische Verbesserungen und zusätzliche Funktionen."
+      }
+    ]
+  }
+}

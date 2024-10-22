@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "title": "PokeRogue",
+    "description": "Experience PokeRogue, where Pokémon meets roguelite gameplay. Battle trainers, collect items, and explore unique biomes for endless fun!"
+  },
+  "hero": {
+    "title": "PokeRogue",
+    "subTitle": "Dive into PokeRogue, a thrilling blend of the Pokémon universe and roguelite mechanics. Battle through diverse biomes, collect powerful items, and face iconic trainers for a unique gaming experience that keeps you returning for more!"
+  },
+  "features": {
+    "title": "Key Features",
+    "subTitle": "Designed to enhance your gaming experience with thrilling and engaging gameplay.",
+    "items": [
+      {
+        "title": "Unique Gameplay Loop",
+        "description": "PokeRogue blends Pokémon with roguelike mechanics, featuring a 'play, die, grow, repeat' gameplay loop that keeps each run exciting."
+      },
+      {
+        "title": "Starter Pokémon Selection",
+        "description": "Choose starter Pokémon from all generations, each assigned a value for balanced team composition, enhancing strategy and gameplay."
+      },
+      {
+        "title": "10-Battle Gauntlets",
+        "description": "Engage in 10 consecutive battles per level, including trainer encounters and challenges against iconic gym leaders, for a test of skill."
+      },
+      {
+        "title": "Strategic Healing and Capturing",
+        "description": "Items are essential for healing and capturing Pokémon, as there are no Pokémon Centers in the game, adding a layer of strategy."
+      },
+      {
+        "title": "Rewarding Gym Leader Battles",
+        "description": "Defeating gym leaders grants tickets for egg gacha machines, introducing new Pokémon and powerful egg moves to enhance your team."
+      },
+      {
+        "title": "Fan-Made Experience",
+        "description": "PokeRogue is a non-profit, unofficial fan-made game, celebrating the Pokémon spirit without any affiliation to Game Freak or Nintendo."
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "How to Play PokeRogue?",
+    "subTitle": "Jump right into your Pokémon adventure with these simple steps:",
+    "items": [
+      {
+        "text": "Meta Progression: Each run builds on previous achievements, making future runs more powerful and engaging."
+      },
+      {
+        "text": "Unlock Starter Pokémon: As you catch various Pokémon, they become available as potential starters for future runs."
+      },
+      {
+        "text": "Explore Biomes: Catch Pokémon from all generations by exploring diverse biomes filled with surprises."
+      },
+      {
+        "text": "Egg Gacha: Redeem vouchers in the Egg Gacha to hatch eggs, which can provide powerful starting egg moves."
+      },
+      {
+        "text": "Transfer Traits: Caught or hatched Pokémon transfer beneficial traits to corresponding starters for future runs."
+      },
+      {
+        "text": "Obtain Starter-Specific Candies: Gain candies as you catch and use your starters, offering various enhancements."
+      },
+      {
+        "text": "Strategic Battles: Choose moves wisely during battles to defeat enemy Pokémon and gain experience."
+      },
+      {
+        "text": "Item Collection: Collect items dropped by defeated Pokémon or found in the environment, stacking benefits for your team."
+      },
+      {
+        "text": "Team Management: Build a diverse team and switch between Pokémon strategically during battles."
+      },
+      {
+        "text": "Face Challenges: Overcome increasingly difficult trainers and boss Pokémon as you progress through the game."
+      },
+      {
+        "text": "Unique Runs: Each run is unique, with overall progress persisting, allowing you to learn, unlock new starters, and improve your Pokémon."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subTitle": "Common questions about PokeRogue",
+    "items": [
+      {
+        "question": "What is PokeRogue?",
+        "answer": "PokeRogue is a fan-made Pokémon game combining traditional Pokémon gameplay with roguelike mechanics, focusing on strategic battles and high-stakes challenges."
+      },
+      {
+        "question": "How does PokeRogue differ from traditional Pokémon games?",
+        "answer": "PokeRogue features permadeath, no Pokémon Centers, consecutive battle mechanics, and a unique starter selection system, emphasizing IVs and new collection methods."
+      },
+      {
+        "question": "How do you start a game in PokeRogue?",
+        "answer": "Select from various starter Pokémon, with each having a value from 1-9. Players can choose multiple starters as long as their total value does not exceed 10."
+      },
+      {
+        "question": "Are there gyms in PokeRogue?",
+        "answer": "While there are no traditional gyms, players encounter gym leaders as part of the challenging 10-battle gauntlets throughout the game."
+      },
+      {
+        "question": "How do you heal Pokémon in PokeRogue?",
+        "answer": "Healing relies on items obtained after battles or purchased with in-game currency. All Pokémon are fully healed and revived after completing a 10-battle gauntlet."
+      }
+    ]
+  }
+}

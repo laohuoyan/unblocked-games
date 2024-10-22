@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "Time Shooter 3: SWAT - Juego de Acción FPS Épico",
+    "description": "Experimenta intensos tiroteos en cámara lenta en Time Shooter 3: SWAT. Esquiva ataques y usa el tiempo como tu arma definitiva."
+  },
+  "hero": {
+    "title": "Bienvenido a Time Shooter 3: SWAT",
+    "subTitle": "Domina el arte de la manipulación del tiempo en épicas batallas FPS."
+  },
+  "features": {
+    "title": "Características Clave",
+    "subTitle": "Descubre los emocionantes elementos del juego.",
+    "items": [
+      {
+        "title": "Control Dinámico del Tiempo",
+        "description": "Tus movimientos influyen en el tiempo, permitiendo un juego estratégico y encuentros emocionantes."
+      },
+      {
+        "title": "Variedad de Armas",
+        "description": "Elige entre una variedad de armas para derrotar enemigos de manera efectiva y estilosa."
+      },
+      {
+        "title": "Entorno 3D Atractivo",
+        "description": "Sumérgete en niveles bellamente diseñados para una intensa acción FPS."
+      },
+      {
+        "title": "Épicos Tiroteos en Cámara Lenta",
+        "description": "Experimenta tiroteos impresionantes que ralentizan el tiempo para ataques precisos."
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "¿Cómo Jugar?",
+    "subTitle": "Consejos esenciales para dominar el campo de batalla.",
+    "items": [
+      {
+        "text": "Usa WASD o las teclas de flecha para navegar y controlar los movimientos de tu personaje."
+      },
+      {
+        "text": "Enfrenta a los enemigos haciendo clic izquierdo para disparar o recoger armas."
+      },
+      {
+        "text": "Utiliza escudos antidisturbios para mayor defensa durante los tiroteos."
+      },
+      {
+        "text": "Planifica tu estrategia de armas según la situación para maximizar la efectividad."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "subTitle": "Preguntas comunes sobre Time Shooter 3: SWAT.",
+    "items": [
+      {
+        "question": "¿Cuántos niveles hay en Time Shooter 3: SWAT?",
+        "answer": "El juego cuenta con niveles infinitos para un juego continuo."
+      },
+      {
+        "question": "¿Cuál es la mejor manera de jugar Time Shooter 3: SWAT?",
+        "answer": "Para la mejor experiencia, juega en una PC de escritorio."
+      },
+      {
+        "question": "¿Puedo jugar este juego en móvil?",
+        "answer": "Sí, el juego está optimizado para navegadores de escritorio y móviles."
+      },
+      {
+        "question": "¿Es Time Shooter 3: SWAT gratis para jugar?",
+        "answer": "Sí, puedes disfrutar del juego de forma gratuita en tu navegador web."
+      }
+    ]
+  }
+}

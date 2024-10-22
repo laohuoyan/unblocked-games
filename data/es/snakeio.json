@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "Snake.io",
+    "description": "Únete a Snake.io y controla tu serpiente para comer comida y crecer más grande. Experimenta gráficos coloridos y una jugabilidad atractiva en este adictivo juego multijugador."
+  },
+  "hero": {
+    "title": "Snake.io",
+    "subTitle": "Sumérgete en el colorido mundo de Snake.io, donde controlarás tu serpiente para comer, crecer y competir con otros por el título de la serpiente más grande."
+  },
+  "features": {
+    "title": "Características Clave",
+    "subTitle": "Diseñado para mejorar tu experiencia de juego con jugabilidad emocionante y atractiva.",
+    "items": [
+      {
+        "title": "Acción Multijugador",
+        "description": "Compite contra jugadores de todo el mundo en partidas multijugador en tiempo real."
+      },
+      {
+        "title": "Skins Personalizables",
+        "description": "Desbloquea y elige entre una variedad de skins de serpiente para personalizar tu experiencia de juego."
+      },
+      {
+        "title": "Power-ups",
+        "description": "Recoge power-ups especiales que te brindan ventajas temporales en el juego."
+      },
+      {
+        "title": "Controles Amigables",
+        "description": "Controla fácilmente tu serpiente usando controles táctiles o de teclado intuitivos para una experiencia fluida."
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "¿Cómo jugar Snake.io?",
+    "subTitle": "Comienza tu aventura en Snake.io con estos sencillos pasos:",
+    "items": [
+      {
+        "text": "Usa las flechas o desliza en la pantalla para controlar el movimiento de la serpiente."
+      },
+      {
+        "text": "Recoge las bolitas de comida esparcidas en el mapa para ayudar a tu serpiente a crecer más grande."
+      },
+      {
+        "text": "Cuando tu serpiente colisiona con el cuerpo de otra serpiente, será destruida y convertida en comida. Come estas bolitas para aumentar de tamaño."
+      },
+      {
+        "text": "Controla cuidadosamente tu serpiente para evitar colisiones con su propio cuerpo u obstáculos, ya que esto resultará en una pérdida."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "subTitle": "Preguntas comunes sobre Snake.io",
+    "items": [
+      {
+        "question": "¿Quién es el creador de Snake.io?",
+        "answer": "Snake.io fue desarrollado por Kooapps y lanzado en 2016. Rápidamente ganó popularidad debido a su jugabilidad adictiva."
+      },
+      {
+        "question": "¿Qué inspiró el juego?",
+        "answer": "Snake.io se inspira en el clásico juego de la serpiente, visto por primera vez en las máquinas arcade de los años 70, donde los jugadores controlan una serpiente para comer comida y crecer."
+      },
+      {
+        "question": "¿Para quién es adecuado Snake.io?",
+        "answer": "Snake.io es perfecto para jugadores casuales y es adecuado para jugadores de 3 años en adelante, ofreciendo gráficos divertidos y una competencia atractiva."
+      },
+      {
+        "question": "¿Puedo jugar Snake.io sin conexión?",
+        "answer": "Snake.io requiere conexión a Internet para las funciones multijugador, pero puedes practicar tus habilidades en modos fuera de línea."
+      }
+    ]
+  }
+}

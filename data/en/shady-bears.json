@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "Shady Bears - Fun for Everyone",
+    "description": "Enjoy Shady Bears, an exciting unblocked arcade game for kids and friends, perfect for play anytime, anywhere!"
+  },
+  "hero": {
+    "title": "Welcome to Shady Bears",
+    "subTitle": "An Unforgettable 2 Player Adventure!"
+  },
+  "features": {
+    "title": "Key Features",
+    "subTitle": "Discover what makes Shady Bears special",
+    "items": [
+      {
+        "title": "Exciting 2 Player Gameplay",
+        "description": "Enjoy thrilling competitions with friends or family, perfect for kids and arcade lovers."
+      },
+      {
+        "title": "Accessible on Any Device",
+        "description": "Play seamlessly on desktop, laptop, or mobile with just a web browser and Wi-Fi."
+      },
+      {
+        "title": "Unblocked at School",
+        "description": "Access Shady Bears freely during recess on school and public networks."
+      },
+      {
+        "title": "Easy Controls",
+        "description": "Navigate with intuitive arrow keys and perform actions using the spacebar for smooth gameplay."
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "How to Play?",
+    "subTitle": "Get started with these simple steps",
+    "items": [
+      {
+        "text": "Launch the game in your browser and select your player."
+      },
+      {
+        "text": "Use the arrow keys to move and spacebar for actions."
+      },
+      {
+        "text": "Engage with your opponent in exciting challenges."
+      },
+      {
+        "text": "Save your progress and share your victories on social media."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subTitle": "Common questions about Shady Bears",
+    "items": [
+      {
+        "question": "Is Shady Bears free to play?",
+        "answer": "Yes, Shady Bears is completely free and accessible online."
+      },
+      {
+        "question": "Can I play Shady Bears on my phone?",
+        "answer": "Absolutely! The game is optimized for mobile devices."
+      },
+      {
+        "question": "What do I need to play?",
+        "answer": "All you need is a device with a web browser and an internet connection."
+      },
+      {
+        "question": "How can I save my progress?",
+        "answer": "Simply press the heart icon to add the game to your Favorites for quick access later."
+      }
+    ]
+  }
+}

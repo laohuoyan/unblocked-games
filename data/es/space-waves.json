@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "title": "Space Waves",
+    "description": "Space Waves es un juego de arcade en el que guías una flecha a través de niveles desafiantes llenos de obstáculos, poniendo a prueba tu precisión y tiempo de reacción."
+  },
+  "hero": {
+    "title": "Space Waves",
+    "subTitle": "Space Waves es un juego de arcade en el que guías una flecha a través de niveles desafiantes llenos de obstáculos, poniendo a prueba tu precisión y tiempo de reacción.",
+    "startBtnText": "Comienza Gratis"
+  },
+  "features": {
+    "title": "Características Principales",
+    "subTitle": "Un diseño bien pensado ofrece a los usuarios una mejor experiencia.",
+    "items": [
+      {
+        "title": "33 Niveles Desafiantes",
+        "description": "Cada nivel presenta obstáculos únicos, con dificultad creciente a medida que avanzas."
+      },
+      {
+        "title": "Dificultad Dinámica",
+        "description": "Los jugadores pueden elegir entre niveles \"verdes\" con espacios y ángulos más amplios, o optar por niveles más difíciles con ángulos más estrechos y más obstáculos."
+      },
+      {
+        "title": "Navegación de Precisión",
+        "description": "El juego pone a prueba tu capacidad para guiar una flecha a través de varios peligros sin chocar."
+      },
+      {
+        "title": "Variedad de Obstáculos",
+        "description": "Encuentra paredes, engranajes giratorios y espinas mientras navegas a través de los niveles."
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "¿Cómo Jugar a Space Waves?",
+    "subTitle": "",
+    "items": [
+      {
+        "text": "Los 33 niveles de Space Waves comparten un objetivo común: guía tu flecha hasta el final de cada nivel sin chocar contra paredes, engranajes giratorios o espinas. Cada nivel varía en dificultad."
+      },
+      {
+        "text": "Elegir un nivel \"verde\" proporciona espacios y ángulos más amplios, permitiéndote ganar algo de impulso en línea recta. A medida que aumenta la dificultad, encontrarás más obstáculos, ángulos más cerrados y un mayor desafío."
+      },
+      {
+        "text": "Space Waves te permite elegir cualquier nivel que desees, por lo que puedes saltar directamente a los niveles más difíciles para poner a prueba tu tiempo de reacción."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "subTitle": "Acerca de Space Waves",
+    "items": [
+      {
+        "question": "¿Cuántos niveles tiene Space Waves?",
+        "answer": "Space Waves cuenta con un total de 33 niveles, cada uno con su propio conjunto de obstáculos y dificultad."
+      },
+      {
+        "question": "¿Puedo elegir el nivel que quiero jugar?",
+        "answer": "Sí, Space Waves te permite seleccionar cualquier nivel que desees jugar, incluidos los más desafiantes desde el principio."
+      },
+      {
+        "question": "¿Qué tipos de obstáculos encontraré en el juego?",
+        "answer": "Los jugadores se enfrentarán a varios obstáculos, incluidos paredes, engranajes giratorios y espinas a lo largo de los niveles."
+      },
+      {
+        "question": "¿Cómo aumenta la dificultad en Space Waves?",
+        "answer": "La dificultad aumenta con cada nivel, presentando ángulos más cerrados y más obstáculos. Los niveles \"verdes\" ofrecen espacios y ángulos más amplios, lo que los hace más fáciles en comparación con los niveles de mayor dificultad."
+      },
+      {
+        "question": "¿Cuál es el objetivo principal de cada nivel?",
+        "answer": "El objetivo de cada nivel es guiar tu flecha hasta el final sin chocar contra ningún obstáculo."
+      }
+    ]
+  }
+}

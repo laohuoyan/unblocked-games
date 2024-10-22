@@ -1,0 +1,13 @@
+{
+    "nav": {
+        "hotGames": "熱門遊戲",
+        "newGames": "新遊戲"
+    },
+    "footer": {
+        "aboutUs": "關於我們",
+        "contactUs": "聯絡我們",
+        "termsOfUse": "使用條款",
+        "privacyPolicy": "隱私政策",
+        "copyRight": "© 版權所有 2024. 保留所有權利。"
+    }
+}

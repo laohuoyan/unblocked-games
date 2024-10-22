@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "Shady Bears - Spaß für alle",
+    "description": "Genießen Sie Shady Bears, ein aufregendes unblockiertes Arcade-Spiel für Kinder und Freunde, perfekt für Spiele jederzeit und überall!"
+  },
+  "hero": {
+    "title": "Willkommen bei Shady Bears",
+    "subTitle": "Ein unvergessliches 2-Spieler-Abenteuer!"
+  },
+  "features": {
+    "title": "Hauptmerkmale",
+    "subTitle": "Entdecken Sie, was Shady Bears besonders macht",
+    "items": [
+      {
+        "title": "Aufregendes 2-Spieler-Gameplay",
+        "description": "Genießen Sie spannende Wettbewerbe mit Freunden oder Familie, perfekt für Kinder und Arcade-Liebhaber."
+      },
+      {
+        "title": "Auf jedem Gerät zugänglich",
+        "description": "Spielen Sie nahtlos auf Desktop, Laptop oder Mobilgerät mit nur einem Webbrowser und WLAN."
+      },
+      {
+        "title": "Unblockiert in der Schule",
+        "description": "Greifen Sie während der Pausen frei auf Shady Bears zu, sowohl in Schulen als auch in öffentlichen Netzwerken."
+      },
+      {
+        "title": "Einfache Steuerung",
+        "description": "Navigieren Sie mit den intuitiven Pfeiltasten und führen Sie Aktionen mit der Leertaste aus, um ein flüssiges Gameplay zu genießen."
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "Wie spielt man?",
+    "subTitle": "Starten Sie mit diesen einfachen Schritten",
+    "items": [
+      {
+        "text": "Starten Sie das Spiel in Ihrem Browser und wählen Sie Ihren Spieler aus."
+      },
+      {
+        "text": "Verwenden Sie die Pfeiltasten zum Bewegen und die Leertaste für Aktionen."
+      },
+      {
+        "text": "Fordern Sie Ihren Gegner in spannenden Herausforderungen heraus."
+      },
+      {
+        "text": "Speichern Sie Ihren Fortschritt und teilen Sie Ihre Siege in sozialen Medien."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "subTitle": "Häufige Fragen zu Shady Bears",
+    "items": [
+      {
+        "question": "Ist Shady Bears kostenlos spielbar?",
+        "answer": "Ja, Shady Bears ist komplett kostenlos und online zugänglich."
+      },
+      {
+        "question": "Kann ich Shady Bears auf meinem Handy spielen?",
+        "answer": "Absolut! Das Spiel ist für mobile Geräte optimiert."
+      },
+      {
+        "question": "Was brauche ich zum Spielen?",
+        "answer": "Alles, was Sie brauchen, ist ein Gerät mit einem Webbrowser und einer Internetverbindung."
+      },
+      {
+        "question": "Wie kann ich meinen Fortschritt speichern?",
+        "answer": "Drücken Sie einfach das Herzsymbol, um das Spiel zu Ihren Favoriten hinzuzufügen, für einen schnellen Zugriff später."
+      }
+    ]
+  }
+}

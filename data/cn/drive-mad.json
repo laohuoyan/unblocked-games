@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "title": "Drive Mad - Fancade的刺激汽车障碍游戏",
+    "description": "Drive Mad是Fancade的一款汽车游戏，你需要在充满障碍的赛道上驾驶。保持速度平衡，避免翻车。可在桌面或移动设备上玩。"
+  },
+  "hero": {
+    "title": "Drive Mad",
+    "subTitle": "掌握障碍，完成每条赛道，避免翻车！"
+  },
+  "features": {
+    "title": "主要特点",
+    "subTitle": "是什么让Drive Mad如此刺激？",
+    "items": [
+      {
+        "title": "充满挑战的障碍",
+        "description": "通过刺激且富有创意的特技和障碍，测试你的驾驶技能。"
+      },
+      {
+        "title": "多个关卡",
+        "description": "每个关卡都有独特的挑战，促使你掌握不同的赛道。"
+      },
+      {
+        "title": "简单的控制",
+        "description": "使用键盘或鼠标轻松控制汽车前进或后退。"
+      },
+      {
+        "title": "跨平台游戏",
+        "description": "无论是在桌面还是移动设备上，随时随地享受Drive Mad。"
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "如何玩？",
+    "subTitle": "",
+    "items": [
+      {
+        "text": "使用W、D、X、上箭头、右箭头或鼠标点击向前行驶，使用S、A、Z、下箭头或左箭头向后行驶。保持速度平衡，避免在障碍上翻车。"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题",
+    "subTitle": "关于Drive Mad的常见问题",
+    "items": [
+      {
+        "question": "谁创造了Drive Mad？",
+        "answer": "Drive Mad由Fancade创造，他们以街机游戏而闻名。你也可以在Poki上尝试他们的其他游戏，如Speed King。"
+      },
+      {
+        "question": "我如何免费玩Drive Mad？",
+        "answer": "你可以在Poki网站上免费玩Drive Mad。"
+      },
+      {
+        "question": "我可以在手机和桌面设备上玩Drive Mad吗？",
+        "answer": "是的，Drive Mad可以在手机、平板和桌面设备上玩。"
+      },
+      {
+        "question": "Drive Mad的目标是什么？",
+        "answer": "目标是在充满障碍的赛道上驾驶，避免翻车并顺利到达终点。"
+      }
+    ]
+  }
+}

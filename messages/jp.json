@@ -1,0 +1,13 @@
+{
+    "nav": {
+        "hotGames": "人気ゲーム",
+        "newGames": "新しいゲーム"
+    },
+    "footer": {
+        "aboutUs": "私たちに関しては",
+        "contactUs": "お問い合わせ",
+        "termsOfUse": "利用規約",
+        "privacyPolicy": "プライバシーポリシー",
+        "copyRight": "© 著作権 2024. 全著作権所有。"
+    }
+}

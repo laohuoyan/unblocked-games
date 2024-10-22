@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "title": "Retro Bowl - Gérez votre équipe de football de rêve",
+    "description": "Rejoignez Retro Bowl pour gérer votre franchise NFL, personnaliser votre équipe et viser la victoire au Super Bowl !"
+  },
+  "hero": {
+    "title": "Retro Bowl",
+    "subTitle": "Entrez dans l'expérience ultime de gestion de football !"
+  },
+  "features": {
+    "title": "Caractéristiques Clés",
+    "subTitle": "",
+    "items": [
+      {
+        "title": "Personnalisation de l'Équipe",
+        "description": "Modifiez les noms des joueurs, les maillots et les emplacements pour créer votre équipe de rêve."
+      },
+      {
+        "title": "Mode de Jeu Double",
+        "description": "Profitez du mélange parfait de contrôle et de jeu automatique pour une expérience dynamique."
+      },
+      {
+        "title": "Jouez à Tout Moment et en Tout Lieu",
+        "description": "Disponible sur PC, mobiles et tablettes pour jouer à tout moment, en ligne ou hors ligne."
+      },
+      {
+        "title": "Gestion de Franchise",
+        "description": "Élargissez votre effectif et gérez les tâches de presse pour satisfaire votre équipe et les fans."
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "Comment Jouer ?",
+    "subTitle": "",
+    "items": [
+      {
+        "text": "Naviguez avec la souris ou le trackpad et sélectionnez des options avec le bouton gauche de la souris."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "subTitle": "Questions courantes sur Retro Bowl",
+    "items": [
+      {
+        "question": "Qui a créé Retro Bowl ?",
+        "answer": "Retro Bowl a été créé par New Star Games Ltd., leur premier jeu sur Poki."
+      },
+      {
+        "question": "Peut-on jouer à Retro Bowl en ligne et hors ligne ?",
+        "answer": "Oui, Retro Bowl peut être joué en ligne et hors ligne !"
+      },
+      {
+        "question": "Puis-je jouer à Retro Bowl sur un téléphone ou une tablette ?",
+        "answer": "Absolument ! Retro Bowl est compatible avec les appareils mobiles sur Poki."
+      },
+      {
+        "question": "Comment se déplacer dans Retro Bowl ?",
+        "answer": "Cliquez sur le cercle bleu sous le joueur pour vous déplacer ; faites glisser vers le haut et le bas pour naviguer."
+      }
+    ]
+  }
+}

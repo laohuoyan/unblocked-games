@@ -1,0 +1,13 @@
+{
+    "nav": {
+        "hotGames": "Hot Games",
+        "newGames": "New Games"
+    },
+    "footer": {
+        "aboutUs": "About Us",
+        "contactUs": "Contact Us",
+        "termsOfUse": "Terms Of Use",
+        "privacyPolicy": "Privacy Policy",
+        "copyRight": "© Copyright 2024. All rights reserved."
+    }
+}

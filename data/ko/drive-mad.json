@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "title": "Drive Mad - Fancade의 짜릿한 자동차 장애물 게임",
+    "description": "Drive Mad는 Fancade에서 만든 자동차 게임으로, 장애물이 가득한 트랙을 탐색하며 진행합니다. 자동차가 뒤집히지 않도록 속도를 조절하세요. 데스크톱 또는 모바일에서 플레이할 수 있습니다."
+  },
+  "hero": {
+    "title": "Drive Mad",
+    "subTitle": "장애물을 극복하고 자동차가 뒤집히지 않도록 조심하며 트랙을 완주하세요!"
+  },
+  "features": {
+    "title": "주요 특징",
+    "subTitle": "Drive Mad가 흥미로운 이유는?",
+    "items": [
+      {
+        "title": "도전적인 장애물",
+        "description": "운전 기술을 시험하는 짜릿하고 창의적인 장애물과 스턴트를 통과하세요."
+      },
+      {
+        "title": "다양한 레벨",
+        "description": "각 레벨마다 독특한 도전 과제가 있으며, 여러 트랙을 마스터하는 것이 목표입니다."
+      },
+      {
+        "title": "간단한 조작법",
+        "description": "키보드나 마우스를 사용해 차를 쉽게 전진하거나 후진하세요."
+      },
+      {
+        "title": "크로스 플랫폼 플레이",
+        "description": "Drive Mad는 데스크톱과 모바일 기기에서 언제 어디서나 즐길 수 있습니다."
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "플레이 방법",
+    "subTitle": "",
+    "items": [
+      {
+        "text": "W, D, X, 위쪽 화살표, 오른쪽 화살표 또는 마우스 클릭으로 앞으로 나아갑니다. S, A, Z, 아래쪽 화살표, 왼쪽 화살표로 후진합니다. 장애물에서 차가 뒤집히지 않도록 속도를 조절하세요."
+      }
+    ]
+  },
+  "faq": {
+    "title": "자주 묻는 질문",
+    "subTitle": "Drive Mad에 대한 자주 묻는 질문",
+    "items": [
+      {
+        "question": "Drive Mad는 누가 만들었나요?",
+        "answer": "Drive Mad는 아케이드 게임으로 유명한 Fancade에서 제작했습니다. Poki에서 Speed King과 같은 다른 게임도 즐길 수 있습니다."
+      },
+      {
+        "question": "Drive Mad는 무료로 플레이할 수 있나요?",
+        "answer": "Poki 웹사이트에서 무료로 Drive Mad를 플레이할 수 있습니다."
+      },
+      {
+        "question": "Drive Mad는 모바일 기기와 데스크톱에서 플레이할 수 있나요?",
+        "answer": "네, Drive Mad는 데스크톱과 휴대폰, 태블릿 같은 모바일 기기에서 모두 이용할 수 있습니다."
+      },
+      {
+        "question": "Drive Mad의 목표는 무엇인가요?",
+        "answer": "장애물로 가득한 트랙을 통과하며 차가 뒤집히지 않도록 신중하게 조종하여 결승선에 도달하는 것이 목표입니다."
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "Temple of Boom - 在致命的神廟戰鬥中生存",
+    "description": "玩 Temple of Boom，擊殺怪物以逃離致命的神廟！在戰役模式中面對恐怖的生物，或在生存模式中無盡戰鬥。"
+  },
+  "hero": {
+    "title": "Temple of Boom",
+    "subTitle": "擊殺怪物，躲避致命攻擊，逃離神廟！"
+  },
+  "features": {
+    "title": "主要特色",
+    "subTitle": "探索 Temple of Boom 的爆炸性挑戰",
+    "items": [
+      {
+        "title": "戰役模式",
+        "description": "在三個獨特的神廟中面對一波波恐怖的生物，難度逐漸增加。"
+      },
+      {
+        "title": "無盡模式",
+        "description": "在無情的敵人面前盡可能長時間生存，測試耐力與技能。"
+      },
+      {
+        "title": "單人與多人模式",
+        "description": "單獨遊玩或與朋友組隊進行兩人模式，提供競爭或合作的樂趣。"
+      },
+      {
+        "title": "多樣化的武器",
+        "description": "拾取並切換不同的武器，在戰鬥中取得優勢，擊敗敵人。"
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "怎麼玩？",
+    "subTitle": "掌握控制並擊敗怪物",
+    "items": [
+      {
+        "text": "在單人模式中，使用方向鍵移動和跳躍。按下箭頭撿起武器，按 Z 射擊，按 X 切換武器。"
+      },
+      {
+        "text": "在雙人模式中，玩家 1 使用 W 跳躍，A/S 移動，S 撿起武器，C 射擊，V 切換武器。玩家 2 使用方向鍵移動和跳躍，向下箭頭撿起武器，K 射擊，L 切換武器。"
+      },
+      {
+        "text": "在戰役模式中擊敗所有怪物以逃離神廟，或在無盡模式中盡可能長時間生存。"
+      },
+      {
+        "text": "收集新武器並戰略性地切換它們來擊敗更強大的敵人。"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常見問題",
+    "subTitle": "關於 Temple of Boom 的常見問題",
+    "items": [
+      {
+        "question": "Temple of Boom 的目標是什麼？",
+        "answer": "在 Temple of Boom 中，目標是擊敗一波波的怪物，在戰役模式中逃離神廟，或在無盡模式中盡可能長時間生存。"
+      },
+      {
+        "question": "我可以與朋友一起玩 Temple of Boom 嗎？",
+        "answer": "可以，Temple of Boom 提供雙人模式，你可以與朋友在同一設備上組隊或競爭。"
+      },
+      {
+        "question": "我該如何切換武器？",
+        "answer": "在單人模式中，按 X 鍵切換武器。在雙人模式中，玩家 1 按 V 鍵，玩家 2 按 L 鍵。"
+      },
+      {
+        "question": "Temple of Boom 是誰創造的？",
+        "answer": "Temple of Boom 是由 Colin Lane Games 開發的，這是一家位於瑞典斯德哥爾摩的獨立工作室，該工作室以 Dunkers、Wrassling 和 Big Shot Boxing 等熱門遊戲而聞名。"
+      }
+    ]
+  }
+}

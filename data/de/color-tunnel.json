@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Color Tunnel",
+    "description": "Color Tunnel ist ein schnelles Endless-Runner-Spiel, bei dem die Spieler durch einen lebhaften Tunnel rasen und Hindernissen ausweichen. Genieße adrenalingeladenen Nervenkitzel mit immer anspruchsvolleren Levels!"
+  },
+  "hero": {
+    "title": "Color Tunnel",
+    "subTitle": "Color Tunnel ist ein Endless-Runner-Spiel, bei dem du durch einen schnellen, bunten Tunnel rasst und immer schwierigeren Hindernissen ausweichst. Durchlaufe verschiedene Levels mit neuen Herausforderungen, die deine Reflexe auf die Probe stellen!"
+  },
+  "features": {
+    "title": "Hauptmerkmale",
+    "subTitle": "Entwickelt, um dein Spielerlebnis mit spannendem und fesselndem Gameplay zu verbessern.",
+    "items": [
+      {
+        "title": "Fesselndes und farbenfrohes Leveldesign",
+        "description": "Jedes Level von Color Tunnel ist einzigartig gestaltet mit lebendigen Farben und fesselnden visuellen Effekten, die eine aufregende und stimulierende Umgebung schaffen, die die Spieler bei Laune hält."
+      },
+      {
+        "title": "Neue Levels bieten schwierigere Herausforderungen",
+        "description": "Im Laufe des Spiels werden komplexere Hindernisse und schnellere Geschwindigkeiten eingeführt, die jedes Level schwieriger und lohnender machen."
+      },
+      {
+        "title": "Schnelles und süchtig machendes Gameplay",
+        "description": "Mit seinen schnellen, reflexbasierten Mechaniken bietet Color Tunnel ein aufregendes und extrem süchtig machendes Spielerlebnis, das die Spieler immer wieder zurückkommen lässt."
+      },
+      {
+        "title": "Leicht zu erlernen",
+        "description": "Color Tunnel ist intuitiv für Anfänger konzipiert. Die einfachen Steuerungen ermöglichen es jedem, sofort zu spielen, aber die Herausforderungen fesseln auch erfahrene Spieler."
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "Wie spielt man Color Tunnel?",
+    "subTitle": "Verwende die Pfeiltasten oder die AD-Tasten, um nach links oder rechts zu bewegen und Hindernissen auszuweichen. Achte auf das Timing, da die Hindernisse in unterschiedlichem Tempo auftreten und deine Reflexe getestet werden! Wenn du einen Checkpoint erreichst, schaltest du das nächste Level mit neuen Herausforderungen frei.",
+    "items": []
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "subTitle": "Häufige Fragen zu Color Tunnel",
+    "items": [
+      {
+        "question": "Was ist Color Tunnel?",
+        "answer": "Color Tunnel ist ein Endless-Runner-Spiel, bei dem die Spieler durch einen bunten, schnellen Tunnel navigieren und Hindernissen ausweichen. Das Spiel wird immer schwieriger, je weiter die Spieler in den Levels voranschreiten."
+      },
+      {
+        "question": "Wie steuere ich den Charakter in Color Tunnel?",
+        "answer": "Du kannst den Charakter mit den Pfeiltasten oder den AD-Tasten steuern, um nach links und rechts zu bewegen und Hindernissen im Tunnel auszuweichen."
+      },
+      {
+        "question": "Gibt es verschiedene Levels in Color Tunnel?",
+        "answer": "Ja, Color Tunnel verfügt über mehrere Levels mit zunehmendem Schwierigkeitsgrad. Jedes neue Level bringt frische Hindernisse und schnellere Geschwindigkeiten, was es anspruchsvoller macht."
+      },
+      {
+        "question": "Ist Color Tunnel kostenlos spielbar?",
+        "answer": "Ja, Color Tunnel ist kostenlos spielbar! Du kannst das Spiel direkt in deinem Browser ohne Kosten genießen."
+      }
+    ]
+  }
+}

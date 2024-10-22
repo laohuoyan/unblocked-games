@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "title": "Funny Shooter",
+    "description": "Funny Shooter 是一款令人兴奋的第一人称射击游戏，在这里你将与奇特的敌人作斗争。使用各种武器击败这些古怪的对手，并在前进中升级你的武器库。"
+  },
+  "hero": {
+    "title": "Funny Shooter",
+    "subTitle": "参与刺激的 FPS 体验，抵御奇怪敌人的攻击！装备多样的武器，在前进中升级你的武器库。",
+    "startBtnText": "免费开始"
+  },
+  "features": {
+    "title": "主要特点",
+    "subTitle": "旨在通过引人入胜的游戏玩法提升用户体验。",
+    "items": [
+      {
+        "title": "流畅的游戏体验与惊艳的 3D 视觉效果",
+        "description": "享受无缝的游戏体验，精美制作的 3D 环境让每场战斗栩栩如生。"
+      },
+      {
+        "title": "面对各种古怪的敌人",
+        "description": "每一关都引入新的荒谬敌人，挑战你的技能，让游戏玩法保持新鲜与刺激。"
+      },
+      {
+        "title": "购买武器并自定义你的装备",
+        "description": "访问游戏内商店购买新武器、配件和装备升级，让你根据游戏风格定制你的武器库。"
+      },
+      {
+        "title": "解锁成就以获得金币奖励",
+        "description": "通过达到成就里程碑赚取金币，可用于解锁更强大的武器并提升你的游戏体验。"
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "如何玩 Funny Shooter?",
+    "subTitle": "探索充满独特敌人的生动多彩的景观。这款升级版的 Funny Shooter 提供了流畅的进程，拥有多样的武器、敌人、关卡和成就。",
+    "items": [
+      {
+        "text": "你的对手包括奇怪的角色，如红人、厕所人和巨人。使用各种火器、手榴弹和炸药，以高强度攻击击败他们。"
+      },
+      {
+        "text": "Funny Shooter 2 具有出色的进程。你将在每几关遇到新的敌人，每 10 关会面对一个强大的 Boss。在这个过程中，你会解锁成就、升级，并访问充满强大武器的商店。"
+      },
+      {
+        "text": "访问商店购买新武器并自定义你的装备。有众多选项可以创建独特的武器库，匹配你的游戏风格。"
+      },
+      {
+        "text": "需要更多金币吗？前往成就屏幕领取奖励，这些奖励可用于升级你的装备或购买新武器。你还可以通过使用主页屏幕的 RPG 和手榴弹发射器升级加速进程。"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题",
+    "subTitle": "关于 Funny Shooter",
+    "items": [
+      {
+        "question": "Funny Shooter 只在桌面上可用吗？",
+        "answer": "不，你也可以在 Android 设备上享受这款游戏！"
+      },
+      {
+        "question": "Funny Shooter 2 有多少关卡？",
+        "answer": "Funny Shooter 2 提供无尽的游戏关卡。"
+      },
+      {
+        "question": "我可以离线玩 Funny Shooter 吗？",
+        "answer": "不，需要互联网连接才能玩 Funny Shooter。"
+      },
+      {
+        "question": "Funny Shooter 有多人游戏功能吗？",
+        "answer": "Funny Shooter 是单人游戏，但我们计划在未来的更新中引入多人模式。"
+      },
+      {
+        "question": "我可以重置我的 Funny Shooter 2 进度吗？",
+        "answer": "可以，你可以从游戏设置中重置进度，若想重新开始。"
+      }
+    ]
+  }
+}

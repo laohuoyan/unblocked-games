@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "探索 Bloxd.io - 一個有趣的在線體驗",
+    "description": "加入 Bloxd.io，展開刺激的體素冒險，享受多樣的遊戲模式。完成地圖，創建角色，與其他玩家對戰！"
+  },
+  "hero": {
+    "title": "歡迎來到 Bloxd.io",
+    "subTitle": "潛入終極的體素遊戲體驗！"
+  },
+  "features": {
+    "title": "主要特點",
+    "subTitle": "",
+    "items": [
+      {
+        "title": "多樣的遊戲模式",
+        "description": "體驗如 BloxdHop、DoodleCube 和 CubeWarfare 等多種模式，帶來無窮樂趣。"
+      },
+      {
+        "title": "創意探索",
+        "description": "享受和平模式，收集資源，按自己的節奏建造驚人的結構。"
+      },
+      {
+        "title": "刺激的挑戰",
+        "description": "在 BloxdHop 和 EvilTower 中測試你的跑酷技能，與時間賽跑。"
+      },
+      {
+        "title": "社區互動",
+        "description": "透過在 DoodleCube 中為角色設計投票以及在 CubeWarfare 中對戰來與其他玩家互動。"
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "如何遊玩？",
+    "subTitle": "",
+    "items": [
+      {
+        "text": "在 BloxdHop 中跳躍穿越方塊，趕在時間耗盡之前。"
+      },
+      {
+        "text": "在 DoodleCube 中創建並為主題角色投票。"
+      },
+      {
+        "text": "使用你的跑酷技能攀爬 EvilTower 的惡魔塔。"
+      },
+      {
+        "text": "在和平模式中自由收集資源並建造。"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常見問題",
+    "subTitle": "有關 Bloxd.io 的常見問題",
+    "items": [
+      {
+        "question": "Bloxd.io 的主要遊戲模式有哪些？",
+        "answer": "主要模式包括 BloxdHop、DoodleCube、EvilTower、和平模式和 CubeWarfare。"
+      },
+      {
+        "question": "我可以免費玩 Bloxd.io 嗎？",
+        "answer": "是的，Bloxd.io 可以在線免費玩。"
+      },
+      {
+        "question": "如何提高我在 Bloxd.io 的技能？",
+        "answer": "在不同模式中練習，並向其他玩家學習以提高技能。"
+      },
+      {
+        "question": "Bloxd.io 中有創意模式嗎？",
+        "answer": "有的，和平模式允許進行創意探索和建造。"
+      }
+    ]
+  }
+}

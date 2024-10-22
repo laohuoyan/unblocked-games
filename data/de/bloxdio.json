@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "Erkunde Bloxd.io - Ein lustiges Online-Voxel-Abenteuer",
+    "description": "Tritt Bloxd.io bei und erlebe aufregende Voxel-Abenteuer mit verschiedenen Spielmodi. Schließe Karten ab, erstelle Avatare und kämpfe gegen andere!"
+  },
+  "hero": {
+    "title": "Willkommen bei Bloxd.io",
+    "subTitle": "Tauche ein in das ultimative Voxel-Gaming-Erlebnis!"
+  },
+  "features": {
+    "title": "Hauptmerkmale",
+    "subTitle": "",
+    "items": [
+      {
+        "title": "Vielfältige Spielmodi",
+        "description": "Erlebe verschiedene Modi wie BloxdHop, DoodleCube und CubeWarfare für endlosen Spaß."
+      },
+      {
+        "title": "Kreative Erkundung",
+        "description": "Genieße den Friedensmodus, um Ressourcen zu sammeln und atemberaubende Strukturen in deinem eigenen Tempo zu bauen."
+      },
+      {
+        "title": "Spannende Herausforderungen",
+        "description": "Teste deine Parkour-Fähigkeiten in BloxdHop und EvilTower, während du gegen die Zeit rennst."
+      },
+      {
+        "title": "Gemeinschaftsinteraktion",
+        "description": "Interagiere mit anderen Spielern, indem du in DoodleCube über Avatar-Designs abstimmst und in CubeWarfare kämpfst."
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "Wie spielt man?",
+    "subTitle": "",
+    "items": [
+      {
+        "text": "Spring über Blöcke in BloxdHop, bevor die Zeit abläuft."
+      },
+      {
+        "text": "Erstelle und vote für thematische Avatare in DoodleCube."
+      },
+      {
+        "text": "Erklimme den Dämonenturm in EvilTower mit deinen Parkour-Fähigkeiten."
+      },
+      {
+        "text": "Sammle Ressourcen und baue frei im Friedensmodus."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "subTitle": "Häufige Fragen zu Bloxd.io",
+    "items": [
+      {
+        "question": "Was sind die Hauptspielmodi in Bloxd.io?",
+        "answer": "Die Hauptmodi sind BloxdHop, DoodleCube, EvilTower, Friedensmodus und CubeWarfare."
+      },
+      {
+        "question": "Kann ich Bloxd.io kostenlos spielen?",
+        "answer": "Ja, Bloxd.io ist kostenlos online spielbar."
+      },
+      {
+        "question": "Wie kann ich meine Fähigkeiten in Bloxd.io verbessern?",
+        "answer": "Übe in verschiedenen Modi und lerne von anderen Spielern, um deine Fähigkeiten zu verbessern."
+      },
+      {
+        "question": "Gibt es einen Kreativmodus in Bloxd.io?",
+        "answer": "Ja, der Friedensmodus ermöglicht kreative Erkundung und Bau."
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "Temple of Boom - Survivez aux batailles mortelles du temple",
+    "description": "Jouez à Temple of Boom et tuez des monstres pour échapper au temple mortel ! Affrontez des créatures terrifiantes en mode campagne ou combattez sans fin en mode survie."
+  },
+  "hero": {
+    "title": "Temple of Boom",
+    "subTitle": "Tuez des monstres, survivez aux attaques mortelles et échappez au temple !"
+  },
+  "features": {
+    "title": "Caractéristiques principales",
+    "subTitle": "Explorez les défis explosifs de Temple of Boom",
+    "items": [
+      {
+        "title": "Mode Campagne",
+        "description": "Affrontez des vagues de créatures terrifiantes à travers trois temples uniques, chacun avec une difficulté croissante."
+      },
+      {
+        "title": "Mode Sans Fin",
+        "description": "Survivez aussi longtemps que possible face à des ennemis acharnés dans un test d'endurance et de compétence."
+      },
+      {
+        "title": "Solo et Multijoueur",
+        "description": "Jouez en solo ou faites équipe avec un ami pour le mode deux joueurs, offrant un divertissement compétitif ou coopératif."
+      },
+      {
+        "title": "Variété d'Armes",
+        "description": "Ramassez et changez d'armes pour prendre l'avantage dans la bataille et vaincre vos ennemis."
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "Comment jouer ?",
+    "subTitle": "Maîtrisez les commandes et vainquez les monstres",
+    "items": [
+      {
+        "text": "En solo, utilisez les flèches pour vous déplacer et sauter. Ramassez des armes avec la flèche bas, tirez avec Z, et changez d'armes avec X."
+      },
+      {
+        "text": "Pour deux joueurs, le Joueur 1 utilise W pour sauter, A/S pour se déplacer, S pour ramasser des armes, C pour tirer et V pour changer d'armes. Le Joueur 2 utilise les flèches pour se déplacer et sauter, la flèche bas pour ramasser des armes, K pour tirer et L pour changer d'armes."
+      },
+      {
+        "text": "Vainquez tous les monstres en mode Campagne pour échapper au temple, ou survivez le plus longtemps possible en mode Sans Fin."
+      },
+      {
+        "text": "Collectez de nouvelles armes et changez-les stratégiquement pour abattre des ennemis plus puissants."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Questions fréquemment posées",
+    "subTitle": "Questions courantes sur Temple of Boom",
+    "items": [
+      {
+        "question": "Quel est l'objectif de Temple of Boom ?",
+        "answer": "Dans Temple of Boom, l'objectif est de vaincre des vagues de monstres et de survivre pour échapper au temple en mode Campagne, ou de rester en vie le plus longtemps possible en mode Sans Fin."
+      },
+      {
+        "question": "Puis-je jouer à Temple of Boom avec un ami ?",
+        "answer": "Oui, Temple of Boom propose un mode deux joueurs où vous pouvez vous associer ou rivaliser avec un ami sur le même appareil."
+      },
+      {
+        "question": "Comment puis-je changer d'armes ?",
+        "answer": "En mode solo, utilisez la touche X pour changer d'armes. En mode deux joueurs, le Joueur 1 utilise la touche V et le Joueur 2 utilise la touche L."
+      },
+      {
+        "question": "Qui a créé Temple of Boom ?",
+        "answer": "Temple of Boom a été développé par Colin Lane Games, un studio indépendant basé à Stockholm, en Suède, connu pour des jeux à succès comme Dunkers, Wrassling et Big Shot Boxing."
+      }
+    ]
+  }
+}

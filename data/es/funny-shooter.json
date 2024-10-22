@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "title": "Funny Shooter",
+    "description": "Funny Shooter es un emocionante juego de disparos en primera persona donde lucharás contra oleadas de enemigos peculiares. Utiliza una variedad de armas para derrotar a estos extraños adversarios y mejora tu arsenal a medida que avanzas."
+  },
+  "hero": {
+    "title": "Funny Shooter",
+    "subTitle": "¡Participa en una emocionante experiencia FPS, luchando contra oleadas de enemigos extraños! Ármate con diversas armas y mejora tu arsenal a medida que avanzas.",
+    "startBtnText": "Comienza Gratis"
+  },
+  "features": {
+    "title": "Características Clave",
+    "subTitle": "Diseñado para mejorar la experiencia del usuario con una jugabilidad atractiva.",
+    "items": [
+      {
+        "title": "Juego fluido con impresionantes gráficos en 3D",
+        "description": "Disfruta de una experiencia de juego sin interrupciones con entornos en 3D bellamente diseñados que dan vida a cada batalla."
+      },
+      {
+        "title": "Enfréntate a una variedad de enemigos excéntricos",
+        "description": "Cada nivel introduce nuevos enemigos absurdos que desafían tus habilidades y mantienen la jugabilidad fresca y emocionante."
+      },
+      {
+        "title": "Compra armas y personaliza tu equipo",
+        "description": "Visita la tienda del juego para comprar nuevas armas, accesorios y mejoras de equipo, lo que te permite adaptar tu arsenal a tu estilo de juego."
+      },
+      {
+        "title": "Desbloquea logros para recompensas en oro",
+        "description": "Gana oro alcanzando hitos de logros, que puedes usar para desbloquear armas más poderosas y mejorar tu jugabilidad."
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "¿Cómo jugar a Funny Shooter?",
+    "subTitle": "Explora paisajes vibrantes y coloridos llenos de enemigos únicos. Esta versión mejorada de Funny Shooter ofrece un progreso fluido con una amplia gama de armas, enemigos, niveles y logros.",
+    "items": [
+      {
+        "text": "Tus oponentes incluyen personajes extraños como redmen, toiletmen y gigantes. Usa diversas armas de fuego, granadas y explosivos para derribarlos con ataques de alto impacto."
+      },
+      {
+        "text": "Funny Shooter 2 presenta una excelente progresión. Encontrarás nuevos enemigos cada pocos niveles y enfrentarás a un poderoso jefe cada 10 niveles. A lo largo del camino, desbloquearás logros, mejoras y acceso a una tienda llena de armas poderosas."
+      },
+      {
+        "text": "Visita la tienda para comprar nuevas armas y personalizar tu carga. Hay numerosas opciones para crear un arsenal único que se ajuste a tu estilo de juego."
+      },
+      {
+        "text": "¿Necesitas más oro? Dirígete a la pantalla de logros para reclamar recompensas, que puedes usar para mejorar tu equipo o comprar nuevas armas. También puedes acelerar tu progreso utilizando mejoras de RPG y lanzagranadas desde la pantalla de inicio."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "subTitle": "Sobre Funny Shooter",
+    "items": [
+      {
+        "question": "¿Funny Shooter solo está disponible en escritorio?",
+        "answer": "¡No, también puedes disfrutar de este juego en dispositivos Android!"
+      },
+      {
+        "question": "¿Cuántos niveles hay en Funny Shooter 2?",
+        "answer": "Funny Shooter 2 ofrece niveles de juego infinitos."
+      },
+      {
+        "question": "¿Puedo jugar a Funny Shooter sin conexión?",
+        "answer": "No, se requiere conexión a Internet para jugar a Funny Shooter."
+      },
+      {
+        "question": "¿Hay funciones multijugador en Funny Shooter?",
+        "answer": "Funny Shooter es un juego para un solo jugador, pero planeamos introducir modos multijugador en futuras actualizaciones."
+      },
+      {
+        "question": "¿Puedo restablecer mi progreso en Funny Shooter 2?",
+        "answer": "Sí, puedes restablecer tu progreso desde la configuración del juego si deseas comenzar de nuevo."
+      }
+    ]
+  }
+}

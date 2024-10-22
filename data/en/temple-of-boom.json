@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "Temple of Boom - Survive the Deadly Temple Battles",
+    "description": "Play Temple of Boom and slay monsters to escape the deadly temple! Face terrifying creatures in campaign mode or battle endlessly in survival mode."
+  },
+  "hero": {
+    "title": "Temple of Boom",
+    "subTitle": "Slay monsters, survive deadly attacks, and escape the temple!"
+  },
+  "features": {
+    "title": "Key Features",
+    "subTitle": "Explore the explosive challenges of Temple of Boom",
+    "items": [
+      {
+        "title": "Campaign Mode",
+        "description": "Face waves of terrifying creatures across three unique temples, each with increasing difficulty."
+      },
+      {
+        "title": "Endless Mode",
+        "description": "Survive as long as possible against unrelenting enemies in a test of endurance and skill."
+      },
+      {
+        "title": "Single and Multiplayer",
+        "description": "Play solo or team up with a friend for two-player mode, offering competitive or cooperative fun."
+      },
+      {
+        "title": "Variety of Weapons",
+        "description": "Pick up and switch between different weapons to gain an edge in battle and defeat your enemies."
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "How to Play?",
+    "subTitle": "Master the controls and defeat the monsters",
+    "items": [
+      {
+        "text": "In single player, use the arrow keys to move and jump. Pick up weapons with the down arrow, shoot with Z, and switch weapons with X."
+      },
+      {
+        "text": "For two players, Player 1 uses W to jump, A/S to move, S to pick up weapons, C to shoot, and V to switch weapons. Player 2 uses the arrow keys for movement and jumping, down arrow to pick up weapons, K to shoot, and L to switch weapons."
+      },
+      {
+        "text": "Defeat all monsters in Campaign mode to escape the temple, or survive for as long as possible in Endless mode."
+      },
+      {
+        "text": "Collect new weapons and strategically switch them to take down more powerful enemies."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subTitle": "Common questions about Temple of Boom",
+    "items": [
+      {
+        "question": "What is the objective of Temple of Boom?",
+        "answer": "In Temple of Boom, the goal is to defeat waves of monsters and survive to escape the temple in Campaign mode, or stay alive as long as possible in Endless mode."
+      },
+      {
+        "question": "Can I play Temple of Boom with a friend?",
+        "answer": "Yes, Temple of Boom offers a two-player mode where you can team up or compete with a friend on the same device."
+      },
+      {
+        "question": "How do I switch weapons?",
+        "answer": "In single-player mode, use the X key to switch weapons. In two-player mode, Player 1 uses the V key, and Player 2 uses the L key."
+      },
+      {
+        "question": "Who created Temple of Boom?",
+        "answer": "Temple of Boom was developed by Colin Lane Games, a one-man studio based in Stockholm, Sweden, known for hit games like Dunkers, Wrassling, and Big Shot Boxing."
+      }
+    ]
+  }
+}

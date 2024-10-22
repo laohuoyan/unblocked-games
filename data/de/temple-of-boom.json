@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "Temple of Boom - Überlebe die tödlichen Tempelschlachten",
+    "description": "Spiele Temple of Boom und töte Monster, um dem tödlichen Tempel zu entkommen! Stelle dich furchterregenden Kreaturen im Kampagnenmodus oder kämpfe endlos im Überlebensmodus."
+  },
+  "hero": {
+    "title": "Temple of Boom",
+    "subTitle": "Töte Monster, überlebe tödliche Angriffe und entkomme dem Tempel!"
+  },
+  "features": {
+    "title": "Wichtige Funktionen",
+    "subTitle": "Entdecke die explosiven Herausforderungen von Temple of Boom",
+    "items": [
+      {
+        "title": "Kampagnenmodus",
+        "description": "Stelle dich Wellen von furchterregenden Kreaturen in drei einzigartigen Tempeln, die jeweils schwieriger werden."
+      },
+      {
+        "title": "Endlosmodus",
+        "description": "Überlebe so lange wie möglich gegen unerbittliche Feinde in einem Test von Ausdauer und Geschick."
+      },
+      {
+        "title": "Einzel- und Mehrspielermodus",
+        "description": "Spiele allein oder schließe dich mit einem Freund zusammen für den Zwei-Spieler-Modus, der wettbewerbsorientierten oder kooperativen Spaß bietet."
+      },
+      {
+        "title": "Verschiedene Waffen",
+        "description": "Sammle und wechsle zwischen verschiedenen Waffen, um im Kampf die Oberhand zu gewinnen und deine Feinde zu besiegen."
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "Wie spielt man?",
+    "subTitle": "Meistere die Steuerung und besiege die Monster",
+    "items": [
+      {
+        "text": "Im Einzelspielermodus verwende die Pfeiltasten zum Bewegen und Springen. Drücke den Abwärtspfeil, um Waffen aufzuheben, Z zum Schießen und X zum Wechseln der Waffen."
+      },
+      {
+        "text": "Im Zweispielermodus benutzt Spieler 1 W zum Springen, A/S zum Bewegen, S zum Aufheben von Waffen, C zum Schießen und V zum Wechseln der Waffen. Spieler 2 verwendet die Pfeiltasten zur Bewegung und zum Springen, den Abwärtspfeil zum Aufheben von Waffen, K zum Schießen und L zum Wechseln der Waffen."
+      },
+      {
+        "text": "Besiege alle Monster im Kampagnenmodus, um dem Tempel zu entkommen, oder überlebe so lange wie möglich im Endlosmodus."
+      },
+      {
+        "text": "Sammle neue Waffen und wechsle sie strategisch, um stärkere Feinde zu besiegen."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "subTitle": "Häufige Fragen zu Temple of Boom",
+    "items": [
+      {
+        "question": "Was ist das Ziel von Temple of Boom?",
+        "answer": "In Temple of Boom besteht das Ziel darin, Wellen von Monstern zu besiegen und dem Tempel im Kampagnenmodus zu entkommen oder so lange wie möglich im Endlosmodus zu überleben."
+      },
+      {
+        "question": "Kann ich Temple of Boom mit einem Freund spielen?",
+        "answer": "Ja, Temple of Boom bietet einen Zwei-Spieler-Modus, in dem du mit einem Freund auf demselben Gerät zusammenarbeiten oder konkurrieren kannst."
+      },
+      {
+        "question": "Wie wechsle ich die Waffen?",
+        "answer": "Im Einzelspielermodus benutzt du die X-Taste, um die Waffen zu wechseln. Im Zweispielermodus verwendet Spieler 1 die V-Taste und Spieler 2 die L-Taste."
+      },
+      {
+        "question": "Wer hat Temple of Boom entwickelt?",
+        "answer": "Temple of Boom wurde von Colin Lane Games entwickelt, einem Ein-Mann-Studio mit Sitz in Stockholm, Schweden, bekannt für Spiele wie Dunkers, Wrassling und Big Shot Boxing."
+      }
+    ]
+  }
+}

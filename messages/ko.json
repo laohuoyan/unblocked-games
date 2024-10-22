@@ -1,0 +1,13 @@
+{
+    "nav": {
+        "hotGames": "인기 게임",
+        "newGames": "새로운 게임"
+    },
+    "footer": {
+        "aboutUs": "회사 소개",
+        "contactUs": "문의하기",
+        "termsOfUse": "이용 약관",
+        "privacyPolicy": "개인정보 처리방침",
+        "copyRight": "© 저작권 2024. 판권 소유."
+    }
+}

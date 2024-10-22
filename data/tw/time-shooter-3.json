@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "Time Shooter 3: SWAT - 史詩級FPS動作遊戲",
+    "description": "在Time Shooter 3: SWAT中體驗激烈的慢動作槍戰。閃避攻擊並利用時間作為你的終極武器。"
+  },
+  "hero": {
+    "title": "歡迎來到Time Shooter 3: SWAT",
+    "subTitle": "在史詩級FPS戰鬥中掌握時間操控的藝術。"
+  },
+  "features": {
+    "title": "主要特徵",
+    "subTitle": "探索遊戲中令人興奮的元素。",
+    "items": [
+      {
+        "title": "動態時間控制",
+        "description": "你的動作影響時間，允許策略性遊玩和驚險遭遇。"
+      },
+      {
+        "title": "多樣化武器",
+        "description": "從各種武器中選擇，有效且風格獨特地消滅敵人。"
+      },
+      {
+        "title": "引人入勝的3D環境",
+        "description": "沉浸在精心打造的關卡中，為激烈的FPS動作而設計。"
+      },
+      {
+        "title": "史詩般的慢動作槍戰",
+        "description": "體驗令人屏息的槍戰，減緩時間以進行精確攻擊。"
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "如何遊玩？",
+    "subTitle": "主宰戰場的基本技巧。",
+    "items": [
+      {
+        "text": "使用WASD或方向鍵進行導航，控制角色的移動。"
+      },
+      {
+        "text": "左鍵點擊以攻擊敵人或撿起武器。"
+      },
+      {
+        "text": "在槍戰中利用防暴盾增加防禦。"
+      },
+      {
+        "text": "根據情況計劃你的武器策略，以最大化效果。"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常見問題",
+    "subTitle": "有關Time Shooter 3: SWAT的常見問題。",
+    "items": [
+      {
+        "question": "Time Shooter 3: SWAT中有多少關卡？",
+        "answer": "遊戲提供無限關卡以便持續遊玩。"
+      },
+      {
+        "question": "最佳遊玩Time Shooter 3: SWAT的方法是什麼？",
+        "answer": "為了獲得最佳體驗，請在桌面電腦上遊玩。"
+      },
+      {
+        "question": "我可以在手機上玩這個遊戲嗎？",
+        "answer": "是的，該遊戲已優化為適用於桌面和手機瀏覽器。"
+      },
+      {
+        "question": "Time Shooter 3: SWAT是免費遊玩的嗎？",
+        "answer": "是的，您可以在網頁瀏覽器中免費享受這款遊戲。"
+      }
+    ]
+  }
+}

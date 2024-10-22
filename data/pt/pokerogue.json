@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "title": "PokeRogue",
+    "description": "Experimente o PokeRogue, onde Pokémon encontra jogabilidade roguelite. Enfrente treinadores, colete itens e explore biomas únicos para diversão sem fim!"
+  },
+  "hero": {
+    "title": "PokeRogue",
+    "subTitle": "Mergulhe em PokeRogue, uma emocionante combinação do universo Pokémon e mecânicas roguelite. Lute através de biomas diversos, colete itens poderosos e enfrente treinadores icônicos para uma experiência de jogo única que o fará voltar para mais!"
+  },
+  "features": {
+    "title": "Principais Recursos",
+    "subTitle": "Projetado para aprimorar sua experiência de jogo com jogabilidade emocionante e envolvente.",
+    "items": [
+      {
+        "title": "Loop de Jogabilidade Único",
+        "description": "PokeRogue combina Pokémon com mecânicas roguelike, apresentando um loop de jogabilidade 'jogar, morrer, crescer, repetir' que mantém cada execução emocionante."
+      },
+      {
+        "title": "Seleção de Pokémon Inicial",
+        "description": "Escolha Pokémon iniciais de todas as gerações, cada um atribuído a um valor para composição equilibrada da equipe, aprimorando a estratégia e a jogabilidade."
+      },
+      {
+        "title": "Gauntlets de 10 Batalhas",
+        "description": "Participe de 10 batalhas consecutivas por nível, incluindo encontros com treinadores e desafios contra líderes de ginásio icônicos, testando suas habilidades."
+      },
+      {
+        "title": "Cura e Captura Estratégicas",
+        "description": "Itens são essenciais para curar e capturar Pokémon, já que não há Centros Pokémon no jogo, adicionando uma camada de estratégia."
+      },
+      {
+        "title": "Batalhas de Líder de Ginásio Recompensadoras",
+        "description": "Derrotar líderes de ginásio concede ingressos para máquinas de gacha de ovos, introduzindo novos Pokémon e movimentos poderosos de ovos para aprimorar sua equipe."
+      },
+      {
+        "title": "Experiência Feita por Fãs",
+        "description": "PokeRogue é um jogo feito por fãs, não lucrativo e não oficial, celebrando o espírito Pokémon sem qualquer afiliação com a Game Freak ou Nintendo."
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "Como Jogar PokeRogue?",
+    "subTitle": "Comece sua aventura Pokémon com estas etapas simples:",
+    "items": [
+      {
+        "text": "Progressão Meta: Cada execução se baseia em conquistas anteriores, tornando futuras execuções mais poderosas e envolventes."
+      },
+      {
+        "text": "Desbloqueie Pokémon Iniciais: À medida que você captura vários Pokémon, eles ficam disponíveis como possíveis iniciais para futuras execuções."
+      },
+      {
+        "text": "Explore Biomas: Capture Pokémon de todas as gerações explorando biomas diversos cheios de surpresas."
+      },
+      {
+        "text": "Gacha de Ovos: Troque vouchers no Gacha de Ovos para chocar ovos, que podem fornecer movimentos de ovos iniciais poderosos."
+      },
+      {
+        "text": "Transferir Atributos: Pokémon capturados ou chocados transferem atributos benéficos para os iniciais correspondentes para futuras execuções."
+      },
+      {
+        "text": "Obtenha Doces Específicos para Iniciais: Ganhe doces ao capturar e usar seus iniciais, oferecendo vários aprimoramentos."
+      },
+      {
+        "text": "Batalhas Estratégicas: Escolha movimentos sabiamente durante as batalhas para derrotar Pokémon inimigos e ganhar experiência."
+      },
+      {
+        "text": "Coleta de Itens: Colete itens deixados por Pokémon derrotados ou encontrados no ambiente, acumulando benefícios para sua equipe."
+      },
+      {
+        "text": "Gerenciamento de Equipe: Construa uma equipe diversificada e troque de Pokémon estrategicamente durante as batalhas."
+      },
+      {
+        "text": "Enfrente Desafios: Supere treinadores e Pokémon chefes cada vez mais difíceis à medida que avança no jogo."
+      },
+      {
+        "text": "Execuções Únicas: Cada execução é única, com progresso geral persistente, permitindo que você aprenda, desbloqueie novos iniciais e melhore seu Pokémon."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "subTitle": "Perguntas comuns sobre PokeRogue",
+    "items": [
+      {
+        "question": "O que é PokeRogue?",
+        "answer": "PokeRogue é um jogo Pokémon feito por fãs que combina jogabilidade Pokémon tradicional com mecânicas roguelike, focando em batalhas estratégicas e desafios de alto risco."
+      },
+      {
+        "question": "Como PokeRogue difere dos jogos Pokémon tradicionais?",
+        "answer": "PokeRogue apresenta morte permanente, sem Centros Pokémon, mecânicas de batalha consecutivas e um sistema de seleção de iniciais único, enfatizando IVs e novos métodos de coleta."
+      },
+      {
+        "question": "Como você começa um jogo em PokeRogue?",
+        "answer": "Selecione entre vários Pokémon iniciais, cada um com um valor de 1 a 9. Os jogadores podem escolher múltiplos iniciais desde que o valor total não ultrapasse 10."
+      },
+      {
+        "question": "Existem ginásios em PokeRogue?",
+        "answer": "Embora não haja ginásios tradicionais, os jogadores encontram líderes de ginásio como parte dos desafiadores gauntlets de 10 batalhas ao longo do jogo."
+      },
+      {
+        "question": "Como você cura Pokémon em PokeRogue?",
+        "answer": "A cura depende de itens obtidos após batalhas ou comprados com moeda do jogo. Todos os Pokémon são completamente curados e revividos após completar um gauntlet de 10 batalhas."
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "Rainbow Obby - Aventura Colorida no Céu",
+    "description": "Junte-se a Rainbow Obby, um um jogo vibrante de obstáculos onde você salta por plataformas coloridas e conquista desafios no céu!"
+  },
+  "hero": {
+    "title": "Bem-vindo ao Rainbow Obby!",
+    "subTitle": "Você consegue conquistar o curso de obstáculos colorido no céu?"
+  },
+  "features": {
+    "title": "Principais Recursos",
+    "subTitle": "Descubra os elementos empolgantes do Rainbow Obby.",
+    "items": [
+      {
+        "title": "Design de Nível Vibrante",
+        "description": "Experimente visuais impressionantes enquanto navega por um labirinto colorido repleto de plataformas desafiadoras."
+      },
+      {
+        "title": "Jogabilidade Dinâmica",
+        "description": "Aproveite uma versão única feita por fãs com novos itens como trampolins e faixas de velocidade que adicionam profundidade à sua jornada."
+      },
+      {
+        "title": "Sistema de Checkpoints",
+        "description": "Nunca perca seu progresso! Alcance checkpoints ao final de cada fase para renascer rapidamente se você cair."
+      },
+      {
+        "title": "Desafios Amigáveis para Iniciantes",
+        "description": "Perfeito para jogadores de todos os níveis de habilidade, proporcionando diversão e um desafio satisfatório."
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "Como Jogar?",
+    "subTitle": "Comece sua aventura com esses passos simples.",
+    "items": [
+      {
+        "text": "Clique em qualquer lugar para começar, use as teclas WASD para mover e pressione a barra de espaço para pular."
+      },
+      {
+        "text": "Alcance os checkpoints ao final de cada fase para renascer rapidamente."
+      },
+      {
+        "text": "Utilize a câmera para julgar seus saltos com precisão, especialmente em plataformas distantes."
+      },
+      {
+        "text": "Domine o tempo dos seus saltos e mantenha a calma para superar seções complicadas."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "subTitle": "Perguntas comuns sobre Rainbow Obby",
+    "items": [
+      {
+        "question": "Rainbow Obby é gratuito para jogar?",
+        "answer": "Sim! Você pode jogar Rainbow Obby gratuitamente em qualquer navegador da web."
+      },
+      {
+        "question": "Preciso baixar algo?",
+        "answer": "Nenhum download é necessário; basta começar a jogar diretamente no seu navegador."
+      },
+      {
+        "question": "O que devo fazer se eu cair de uma plataforma?",
+        "answer": "Você renascerá no último checkpoint que alcançou, então não se preocupe!"
+      },
+      {
+        "question": "Existem diferentes níveis de dificuldade?",
+        "answer": "O jogo é projetado para ser amigável para iniciantes, enquanto ainda oferece uma jogabilidade desafiadora."
+      }
+    ]
+  }
+}

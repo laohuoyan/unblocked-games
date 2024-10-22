@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "title": "PokeRogue",
+    "description": "体验 PokeRogue，在这里 Pokémon 与 roguelite 游戏玩法相结合。与训练师战斗，收集物品，探索独特的生物群落，尽享无尽乐趣！"
+  },
+  "hero": {
+    "title": "PokeRogue",
+    "subTitle": "沉浸在 PokeRogue 中，这是 Pokémon 宇宙与 roguelite 机制的惊险结合。通过多样的生物群落进行战斗，收集强力物品，面对标志性的训练师，享受独特的游戏体验，令你一次又一次回归！"
+  },
+  "features": {
+    "title": "主要特点",
+    "subTitle": "旨在增强您的游戏体验，带来刺激和引人入胜的游戏玩法。",
+    "items": [
+      {
+        "title": "独特的游戏循环",
+        "description": "PokeRogue 将 Pokémon 与 roguelike 机制相结合，具有 '玩、死、成长、重复' 的游戏循环，让每次游戏都充满刺激。"
+      },
+      {
+        "title": "初始 Pokémon 选择",
+        "description": "从所有世代中选择初始 Pokémon，每个 Pokémon 都分配了一个值，以实现平衡的团队组合，增强策略和游戏性。"
+      },
+      {
+        "title": "10 场战斗挑战",
+        "description": "在每个关卡中参与 10 场连续的战斗，包括与训练师的遭遇和对标志性道馆馆主的挑战，考验你的技巧。"
+      },
+      {
+        "title": "战略性治疗和捕捉",
+        "description": "物品对于治疗和捕捉 Pokémon 至关重要，因为游戏中没有 Pokémon 中心，这增加了一层策略。"
+      },
+      {
+        "title": "奖励丰厚的道馆挑战",
+        "description": "击败道馆馆主可获得蛋抽奖机的票券，引入新的 Pokémon 和强力的蛋招式以增强你的团队。"
+      },
+      {
+        "title": "粉丝制作的体验",
+        "description": "PokeRogue 是一款非盈利的非官方粉丝制作游戏，庆祝 Pokémon 精神，不与 Game Freak 或任天堂有任何关系。"
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "如何玩 PokeRogue？",
+    "subTitle": "通过以下简单步骤立即投入你的 Pokémon 冒险：",
+    "items": [
+      {
+        "text": "元进程：每次游戏都建立在之前的成就之上，使未来的游戏更强大，更具吸引力。"
+      },
+      {
+        "text": "解锁初始 Pokémon：随着你捕捉各种 Pokémon，它们会作为未来游戏的潜在初始 Pokémon 可用。"
+      },
+      {
+        "text": "探索生物群落：通过探索充满惊喜的多样生物群落捕捉来自所有世代的 Pokémon。"
+      },
+      {
+        "text": "蛋抽奖：在蛋抽奖机中兑换凭证以孵化蛋，这可以提供强力的初始蛋招式。"
+      },
+      {
+        "text": "转移特性：捕获或孵化的 Pokémon 将其有益特性转移到未来游戏的对应初始 Pokémon。"
+      },
+      {
+        "text": "获取初始特定糖果：在捕捉和使用初始 Pokémon 时获得糖果，提供各种增强。"
+      },
+      {
+        "text": "战略性战斗：在战斗中明智地选择招式，以击败敌方 Pokémon 并获得经验。"
+      },
+      {
+        "text": "物品收集：收集被击败的 Pokémon 掉落或在环境中找到的物品，为你的团队叠加收益。"
+      },
+      {
+        "text": "团队管理：建立多样化的团队，并在战斗中战略性地切换 Pokémon。"
+      },
+      {
+        "text": "迎接挑战：在游戏中面对越来越困难的训练师和首领 Pokémon。"
+      },
+      {
+        "text": "独特的游戏体验：每次游戏都是独特的，总体进度持续，允许你学习、解锁新初始 Pokémon 并提升你的 Pokémon。"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题",
+    "subTitle": "关于 PokeRogue 的常见问题",
+    "items": [
+      {
+        "question": "什么是 PokeRogue？",
+        "answer": "PokeRogue 是一款粉丝制作的 Pokémon 游戏，将传统 Pokémon 游戏玩法与 roguelike 机制相结合，专注于战略战斗和高风险挑战。"
+      },
+      {
+        "question": "PokeRogue 与传统 Pokémon 游戏有什么不同？",
+        "answer": "PokeRogue 具有永久死亡、没有 Pokémon 中心、连续战斗机制和独特的初始选择系统，强调 IV 和新收集方法。"
+      },
+      {
+        "question": "如何开始游戏 PokeRogue？",
+        "answer": "从各种初始 Pokémon 中选择，每个 Pokémon 的值为 1-9。玩家可以选择多个初始 Pokémon，只要它们的总值不超过 10。"
+      },
+      {
+        "question": "PokeRogue 中有道馆吗？",
+        "answer": "虽然没有传统道馆，但玩家在整个游戏中会遇到道馆馆主，作为具有挑战性的 10 场战斗的一部分。"
+      },
+      {
+        "question": "如何在 PokeRogue 中治疗 Pokémon？",
+        "answer": "治疗依赖于在战斗后获得的物品或使用游戏内货币购买。所有 Pokémon 在完成 10 场战斗后都会完全恢复和复活。"
+      }
+    ]
+  }
+}

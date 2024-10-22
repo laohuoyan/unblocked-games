@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "title": "Retro Bowl - Manage Your Dream Football Team",
+    "description": "Join Retro Bowl to manage your NFL franchise, customize your team, and aim for Super Bowl victory!"
+  },
+  "hero": {
+    "title": "Retro Bowl",
+    "subTitle": "Step into the ultimate football management experience!"
+  },
+  "features": {
+    "title": "Key Features",
+    "subTitle": "",
+    "items": [
+      {
+        "title": "Team Customization",
+        "description": "Edit player names, jerseys, and locations to create your dream team."
+      },
+      {
+        "title": "Dual Gameplay Mode",
+        "description": "Enjoy the perfect mix of control and auto-play for a dynamic gaming experience."
+      },
+      {
+        "title": "Play Anytime, Anywhere",
+        "description": "Available on PC, mobile, and tablet for convenient play, online or offline."
+      },
+      {
+        "title": "Franchise Management",
+        "description": "Expand your roster and handle press duties to keep your team and fans satisfied."
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "How to Play?",
+    "subTitle": "",
+    "items": [
+      {
+        "text": "Navigate using your mouse or trackpad and select options with the left mouse button."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subTitle": "Common questions about Retro Bowl",
+    "items": [
+      {
+        "question": "Who created Retro Bowl?",
+        "answer": "Retro Bowl is created by New Star Games Ltd., their first game on Poki."
+      },
+      {
+        "question": "Can you play Retro Bowl online and offline?",
+        "answer": "Yes, Retro Bowl can be played both online and offline!"
+      },
+      {
+        "question": "Can I play Retro Bowl on a phone or tablet?",
+        "answer": "Absolutely! Retro Bowl is compatible with mobile devices on Poki."
+      },
+      {
+        "question": "How do you move in Retro Bowl?",
+        "answer": "Click the blue circle under the player to move; swipe to navigate up and down."
+      }
+    ]
+  }
+}

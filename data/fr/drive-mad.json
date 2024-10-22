@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "title": "Drive Mad - Jeu de voiture palpitant par Fancade",
+    "description": "Drive Mad est un jeu de voiture par Fancade où vous naviguez sur des pistes remplies d'obstacles. Équilibrez votre vitesse pour éviter de retourner votre voiture. Jouez sur ordinateur ou mobile."
+  },
+  "hero": {
+    "title": "Drive Mad",
+    "subTitle": "Maîtrisez les obstacles et terminez chaque piste sans retourner votre voiture !"
+  },
+  "features": {
+    "title": "Caractéristiques clés",
+    "subTitle": "Qu'est-ce qui rend Drive Mad passionnant ?",
+    "items": [
+      {
+        "title": "Obstacles difficiles",
+        "description": "Naviguez à travers des cascades et obstacles passionnants et créatifs qui mettent à l'épreuve vos compétences de conduite."
+      },
+      {
+        "title": "Niveaux multiples",
+        "description": "Chaque niveau présente des défis uniques, vous poussant à maîtriser différentes pistes."
+      },
+      {
+        "title": "Contrôles simples",
+        "description": "Utilisez les contrôles au clavier ou à la souris pour diriger votre voiture en avant et en arrière avec aisance."
+      },
+      {
+        "title": "Jeu multiplateforme",
+        "description": "Profitez de Drive Mad sur les ordinateurs de bureau et les appareils mobiles, à tout moment et n'importe où."
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "Comment jouer ?",
+    "subTitle": "",
+    "items": [
+      {
+        "text": "Dirigez-vous en avant en utilisant W, D, X, flèche haut, flèche droite, ou clic de souris. Dirigez-vous en arrière en utilisant S, A, Z, flèche bas, ou flèche gauche. Équilibrez votre vitesse pour éviter de retourner votre voiture sur les obstacles."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "subTitle": "Questions courantes sur Drive Mad",
+    "items": [
+      {
+        "question": "Qui a créé Drive Mad ?",
+        "answer": "Drive Mad a été créé par Fancade, connu pour ses jeux d'arcade. Vous pouvez également essayer leurs autres jeux comme Speed King sur Poki."
+      },
+      {
+        "question": "Comment puis-je jouer à Drive Mad gratuitement ?",
+        "answer": "Vous pouvez jouer à Drive Mad gratuitement sur le site Poki."
+      },
+      {
+        "question": "Puis-je jouer à Drive Mad sur des appareils mobiles et un ordinateur ?",
+        "answer": "Oui, Drive Mad est disponible sur des ordinateurs de bureau et des appareils mobiles tels que les téléphones et les tablettes."
+      },
+      {
+        "question": "Quel est l'objectif de Drive Mad ?",
+        "answer": "L'objectif est d'atteindre la ligne d'arrivée sans retourner votre voiture, en naviguant soigneusement à travers la piste remplie d'obstacles."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "title": "Retro Bowl - Gerencie seu time de futebol dos sonhos",
+    "description": "Junte-se ao Retro Bowl para gerenciar sua franquia da NFL, personalizar seu time e almejar a vitória no Super Bowl!"
+  },
+  "hero": {
+    "title": "Retro Bowl",
+    "subTitle": "Entre na experiência definitiva de gerenciamento de futebol!"
+  },
+  "features": {
+    "title": "Recursos Principais",
+    "subTitle": "",
+    "items": [
+      {
+        "title": "Personalização do Time",
+        "description": "Edite nomes de jogadores, uniformes e locais para criar seu time dos sonhos."
+      },
+      {
+        "title": "Modo de Jogo Duplo",
+        "description": "Aproveite a mistura perfeita de controle e auto-jogo para uma experiência dinâmica."
+      },
+      {
+        "title": "Jogue a Qualquer Momento e em Qualquer Lugar",
+        "description": "Disponível em PC, dispositivos móveis e tablets para jogar a qualquer hora, online ou offline."
+      },
+      {
+        "title": "Gerenciamento de Franquias",
+        "description": "Amplie seu elenco e gerencie as tarefas da imprensa para manter seu time e fãs satisfeitos."
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "Como Jogar?",
+    "subTitle": "",
+    "items": [
+      {
+        "text": "Navegue usando o mouse ou o touchpad e selecione opções com o botão esquerdo do mouse."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "subTitle": "Perguntas comuns sobre Retro Bowl",
+    "items": [
+      {
+        "question": "Quem criou o Retro Bowl?",
+        "answer": "Retro Bowl foi criado pela New Star Games Ltd., seu primeiro jogo no Poki."
+      },
+      {
+        "question": "Posso jogar Retro Bowl online e offline?",
+        "answer": "Sim, Retro Bowl pode ser jogado online e offline!"
+      },
+      {
+        "question": "Posso jogar Retro Bowl em um celular ou tablet?",
+        "answer": "Claro! Retro Bowl é compatível com dispositivos móveis no Poki."
+      },
+      {
+        "question": "Como me movo no Retro Bowl?",
+        "answer": "Clique no círculo azul abaixo do jogador para se mover; deslize para cima e para baixo para navegar."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "title": "Retro Bowl - Manage Your Dream Football Team",
+    "description": "Retro Bowl에 참여하여 NFL 프랜차이즈를 관리하고, 팀을 커스터마이즈하며, 슈퍼볼 우승을 목표로 하세요!"
+  },
+  "hero": {
+    "title": "Retro Bowl",
+    "subTitle": "궁극의 축구 관리 경험에 발을 들여보세요!"
+  },
+  "features": {
+    "title": "주요 특징",
+    "subTitle": "",
+    "items": [
+      {
+        "title": "팀 커스터마이징",
+        "description": "선수 이름, 유니폼, 위치를 편집하여 당신의 꿈의 팀을 만드세요."
+      },
+      {
+        "title": "이중 게임 모드",
+        "description": "컨트롤과 자동 플레이의 완벽한 조화를 즐기며 역동적인 게임 경험을 제공합니다."
+      },
+      {
+        "title": "언제 어디서나 플레이",
+        "description": "PC, 모바일, 태블릿에서 언제든지 편리하게 온라인 또는 오프라인으로 플레이할 수 있습니다."
+      },
+      {
+        "title": "프랜차이즈 관리",
+        "description": "로스터를 확장하고 언론 업무를 처리하여 팀과 팬을 만족시켜 보세요."
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "어떻게 플레이하나요?",
+    "subTitle": "",
+    "items": [
+      {
+        "text": "마우스 또는 트랙패드를 사용하여 탐색하고 왼쪽 마우스 버튼으로 옵션을 선택하세요."
+      }
+    ]
+  },
+  "faq": {
+    "title": "자주 묻는 질문",
+    "subTitle": "Retro Bowl에 대한 일반적인 질문",
+    "items": [
+      {
+        "question": "Retro Bowl은 누가 만들었나요?",
+        "answer": "Retro Bowl은 New Star Games Ltd.에서 제작하였으며, Poki에서 그들의 첫 번째 게임입니다."
+      },
+      {
+        "question": "Retro Bowl을 온라인과 오프라인으로 플레이할 수 있나요?",
+        "answer": "네, Retro Bowl은 온라인과 오프라인 모두에서 플레이할 수 있습니다!"
+      },
+      {
+        "question": "휴대폰이나 태블릿에서 Retro Bowl을 플레이할 수 있나요?",
+        "answer": "물론입니다! Retro Bowl은 Poki의 모바일 기기와 호환됩니다."
+      },
+      {
+        "question": "Retro Bowl에서 어떻게 이동하나요?",
+        "answer": "선수 아래 파란색 원을 클릭하여 이동하고, 위아래로 탐색하기 위해 스와이프하세요."
+      }
+    ]
+  }
+}

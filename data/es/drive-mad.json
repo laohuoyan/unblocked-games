@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "title": "Drive Mad - Emocionante juego de obstáculos en coche de Fancade",
+    "description": "Drive Mad es un juego de coches de Fancade donde navegas por pistas llenas de obstáculos. Equilibra tu velocidad para evitar volcar tu coche. Juega en escritorio o móvil."
+  },
+  "hero": {
+    "title": "Drive Mad",
+    "subTitle": "¡Domina los obstáculos y completa cada pista sin volcar tu coche!"
+  },
+  "features": {
+    "title": "Características Clave",
+    "subTitle": "¿Qué hace que Drive Mad sea emocionante?",
+    "items": [
+      {
+        "title": "Obstáculos Desafiantes",
+        "description": "Navega por emocionantes y creativos acrobacias y obstáculos que pondrán a prueba tus habilidades de conducción."
+      },
+      {
+        "title": "Múltiples Niveles",
+        "description": "Cada nivel presenta desafíos únicos, empujándote a dominar diferentes pistas."
+      },
+      {
+        "title": "Controles Sencillos",
+        "description": "Utiliza el teclado o el ratón para conducir tu coche hacia adelante o hacia atrás con facilidad."
+      },
+      {
+        "title": "Juego Multiplataforma",
+        "description": "Disfruta de Drive Mad tanto en escritorio como en dispositivos móviles, en cualquier momento y lugar."
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "¿Cómo jugar?",
+    "subTitle": "",
+    "items": [
+      {
+        "text": "Conduce hacia adelante usando W, D, X, la flecha arriba, la flecha derecha o clic del ratón. Conduce hacia atrás usando S, A, Z, la flecha abajo o la flecha izquierda. Equilibra tu velocidad para evitar volcar tu coche en los obstáculos."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "subTitle": "Preguntas comunes sobre Drive Mad",
+    "items": [
+      {
+        "question": "¿Quién creó Drive Mad?",
+        "answer": "Drive Mad fue creado por Fancade, conocidos por sus juegos de arcade. También puedes probar otros juegos como Speed King en Poki."
+      },
+      {
+        "question": "¿Cómo puedo jugar a Drive Mad gratis?",
+        "answer": "Puedes jugar a Drive Mad gratis en el sitio web de Poki."
+      },
+      {
+        "question": "¿Puedo jugar a Drive Mad en dispositivos móviles y en el escritorio?",
+        "answer": "Sí, Drive Mad está disponible tanto en dispositivos móviles como en escritorio."
+      },
+      {
+        "question": "¿Cuál es el objetivo de Drive Mad?",
+        "answer": "El objetivo es llegar a la línea de meta sin volcar tu coche, navegando cuidadosamente por las pistas llenas de obstáculos."
+      }
+    ]
+  }
+}

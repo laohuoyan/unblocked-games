@@ -1,0 +1,13 @@
+{
+    "nav": {
+        "hotGames": "Jeux Populaires",
+        "newGames": "Nouveaux Jeux"
+    },
+    "footer": {
+        "aboutUs": "À propos de nous",
+        "contactUs": "Contactez-nous",
+        "termsOfUse": "Conditions d'utilisation",
+        "privacyPolicy": "Politique de Confidentialité",
+        "copyRight": "© Droit d'auteur 2024. Tous droits réservés."
+    }
+}

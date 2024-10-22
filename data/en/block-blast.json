@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "Block Blast",
+    "description": "Experience Block Blast, the ultimate classic puzzle game! Arrange colorful blocks, create combos, and achieve high scores for endless fun."
+  },
+  "hero": {
+    "title": "Block Blast",
+    "subTitle": "Dive into Block Blast! Arrange the blocks to form combos and earn points in this engaging classic puzzle game."
+  },
+  "features": {
+    "title": "Key Features",
+    "subTitle": "Designed to enhance your gaming experience with thrilling and engaging gameplay.",
+    "items": [
+      {
+        "title": "Engaging Gameplay",
+        "description": "Enjoy a classic puzzle experience with intuitive mechanics that keep you hooked."
+      },
+      {
+        "title": "Colorful Graphics",
+        "description": "Immerse yourself in vibrant graphics and smooth animations that enhance your gaming experience."
+      },
+      {
+        "title": "Combo System",
+        "description": "Create incredible combos to earn bonus points and climb the leaderboards."
+      },
+      {
+        "title": "Challenging Levels",
+        "description": "Face increasingly difficult challenges that test your strategic thinking and planning skills."
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "How to Play Block Blast?",
+    "subTitle": "Jump right into your Block Blast adventure with these simple steps:",
+    "items": [
+      {
+        "text": "Your goal is to place blocks of different colors and shapes on a fixed board."
+      },
+      {
+        "text": "When a row or column is completely filled, the blocks will disappear, earning you points."
+      },
+      {
+        "text": "The more blocks you remove and the longer combo chains you create, the higher your score will be."
+      },
+      {
+        "text": "The game ends when the board is completely filled, leaving no space for additional blocks."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subTitle": "Common questions about Block Blast",
+    "items": [
+      {
+        "question": "How to achieve a high score?",
+        "answer": "Before placing any block, analyze the board and anticipate upcoming blocks. Visualize which rows or columns will fill up soon. Start from the corners to maximize space for larger blocks. Aim to remove multiple rows or columns simultaneously to create combos and gain bonus points."
+      },
+      {
+        "question": "Is there a time limit?",
+        "answer": "No, Block Blast is a relaxing puzzle game without a time limit, allowing you to plan your moves at your own pace."
+      },
+      {
+        "question": "Can I play Block Blast offline?",
+        "answer": "Yes, Block Blast can be played offline, making it a perfect game for when you're on the go."
+      },
+      {
+        "question": "Are there any in-app purchases?",
+        "answer": "Block Blast is free to play with optional in-app purchases for cosmetic enhancements and additional features."
+      }
+    ]
+  }
+}

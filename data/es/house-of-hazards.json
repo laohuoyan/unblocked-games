@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "title": "House of Hazards - Divertido juego multijugador local",
+    "description": "Únete a la diversión caótica en House of Hazards, un juego multijugador local lleno de tareas y peligros locos."
+  },
+  "hero": {
+    "title": "¡Bienvenido a House of Hazards!",
+    "subTitle": "¿Puedes sobrevivir al caos?"
+  },
+  "features": {
+    "title": "Características principales",
+    "subTitle": "¡Experimenta las emociones del juego!",
+    "items": [
+      {
+        "title": "Emocionante modo multijugador",
+        "description": "Compite con hasta 4 jugadores en una acción multijugador local caótica."
+      },
+      {
+        "title": "Peligros únicos",
+        "description": "Evita una variedad de peligros como tostadas voladoras y luces que caen mientras completas tus tareas."
+      },
+      {
+        "title": "Desbloqueo de personajes divertidos",
+        "description": "Desbloquea nuevos personajes al lograr puntuaciones altas en el modo multijugador."
+      },
+      {
+        "title": "Múltiples modos de juego",
+        "description": "Elige entre el modo multijugador o contrarreloj para experiencias de juego diversas."
+      },
+      {
+        "title": "Controles simples",
+        "description": "Controla fácilmente tu personaje con teclado o gamepad para una experiencia de juego fluida."
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "¿Cómo se juega?",
+    "subTitle": "¡Completa tareas y evita los peligros!",
+    "items": [
+      {
+        "text": "Navega por la casa para completar tareas simples mientras evitas varios peligros."
+      },
+      {
+        "text": "Usa los controles del teclado o gamepad para moverte, saltar e interactuar."
+      },
+      {
+        "text": "¡Cuidado con obstáculos como el robot aspiradora y objetos voladores!"
+      },
+      {
+        "text": "Compite contra otros jugadores para completar las tareas primero mientras los saboteas."
+      },
+      {
+        "text": "¡Gira la rueda de la fortuna después de cada ronda para determinar tu destino!"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "subTitle": "Preguntas comunes sobre House of Hazards",
+    "items": [
+      {
+        "question": "¿Cómo se desbloquean personajes en House of Hazards?",
+        "answer": "Desbloqueas nuevos personajes ganando partidas en el modo multijugador."
+      },
+      {
+        "question": "¿Es House of Hazards un juego en línea?",
+        "answer": "No, es un juego multijugador local para 2-4 jugadores."
+      },
+      {
+        "question": "¿Qué tipos de peligros hay en el juego?",
+        "answer": "¡Espera peligros como luces que caen, grifos defectuosos y tostadas voladoras!"
+      },
+      {
+        "question": "¿Puedo jugar con un gamepad?",
+        "answer": "Sí, puedes usar un gamepad para los jugadores 3 y 4."
+      },
+      {
+        "question": "¿Cuáles son los modos de juego disponibles?",
+        "answer": "Puedes elegir entre el modo multijugador y contrarreloj."
+      }
+    ]
+  }
+}

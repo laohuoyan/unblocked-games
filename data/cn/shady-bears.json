@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "Shady Bears - 适合所有人的乐趣",
+    "description": "享受Shady Bears，这是一款刺激的无阻碍街机游戏，适合孩子和朋友，随时随地都能玩！"
+  },
+  "hero": {
+    "title": "欢迎来到Shady Bears",
+    "subTitle": "一场难忘的双人冒险！"
+  },
+  "features": {
+    "title": "主要特点",
+    "subTitle": "发现Shady Bears的独特之处",
+    "items": [
+      {
+        "title": "刺激的双人游戏",
+        "description": "与朋友或家人享受激动人心的比赛，完美适合孩子和街机爱好者。"
+      },
+      {
+        "title": "任何设备均可访问",
+        "description": "在桌面、笔记本或移动设备上通过网页浏览器和Wi-Fi无缝游戏。"
+      },
+      {
+        "title": "学校内无阻碍",
+        "description": "在学校和公共网络的课间自由访问Shady Bears。"
+      },
+      {
+        "title": "简单控制",
+        "description": "使用直观的箭头键导航，使用空格键执行动作，享受顺畅的游戏体验。"
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "如何玩？",
+    "subTitle": "按照这些简单步骤开始",
+    "items": [
+      {
+        "text": "在浏览器中启动游戏并选择你的玩家。"
+      },
+      {
+        "text": "使用箭头键移动，空格键进行操作。"
+      },
+      {
+        "text": "与对手进行激动人心的挑战。"
+      },
+      {
+        "text": "保存进度并在社交媒体上分享你的胜利。"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题",
+    "subTitle": "关于Shady Bears的常见问题",
+    "items": [
+      {
+        "question": "Shady Bears是免费玩吗？",
+        "answer": "是的，Shady Bears完全免费，在线可访问。"
+      },
+      {
+        "question": "我可以在手机上玩Shady Bears吗？",
+        "answer": "当然可以！这款游戏经过优化，适合移动设备。"
+      },
+      {
+        "question": "我需要什么来玩？",
+        "answer": "你只需要一台有网页浏览器和互联网连接的设备。"
+      },
+      {
+        "question": "我如何保存我的进度？",
+        "answer": "只需按心形图标将游戏添加到你的收藏夹，以便稍后快速访问。"
+      }
+    ]
+  }
+}
